@@ -6,5 +6,5 @@ Multiple branches will become available as I advance in my learning and career.
 
 
 | Version History |
-| --- |
+| --- | --- |
 | -----------------------> | 1.71111 |
