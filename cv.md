@@ -80,4 +80,4 @@ Hobbies
 >I love long bicycle rides and home made good food. I play computer games and sometimes I use the soldering iron.
 <!--Body End -->
 
-Most recent version of my CV can be found [here](https://github.com/bemihai22/CV).
+Most recent version of my CV can be found [here](https://github.com/bemihai22/CV/blob/master/cv.md).
