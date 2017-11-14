@@ -39,14 +39,16 @@ Key Skills
 <!--School-->
 Education
 ---------  
-* MEng Computer Science / Software Engineering - 2016 - Now
-  - On track for a 2.1
-  - Studying Functional Programming, C++ and SQL as part of my course  
 
+ __MEng Computer Science__ with _Software Engineering_ at __Birmingham University__ - 2016 - __Now__  
 
-* National College of Computer Science "Matei Basarab" - 2012-2016
-  - 1st in Advanced Maths - 90.0%
-  - 1st in Computer Science subject - 91.0% (C++ Programming)
+>  - On track for a 2.1
+>  - Studying Functional Programming, C++ and SQL as part of my course  
+
+__National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasarab.ro/cnimb/) - 2012-2016  
+
+> - 1st in Advanced Maths - 90.0%
+> - 1st in Computer Science subject - 91.0% (C++ Programming)
 
 <!--Work-->
 Work Experience
