@@ -29,7 +29,7 @@ Key Skills
 #### Leadership
 * Software Engineering project leader 2017-2018 aiming towards a 1.1
 * Professional Computing group presentation leader 2017-2018, showcasing Internet [Censorship](https://docs.google.com/presentation/d/1G9AnpxJD_0iL3ISDxj3EJGa80AkJNM933q1JZQ2uzjU/edit?usp=sharing)
-* University Business Challenge 2017-2018 and B-Enterprise 2017-2018
+* University Business Challenge 2017, where a team of 5 leads a simulated company and the goal is to obtain the best profit after 8 trading periods.
 
 <!--Volunteering-->
 #### Volunteering
@@ -52,11 +52,11 @@ Education
 Work Experience
 ---------------
 
-2014-2016
-#### S.C. LITRA SRL - 3D Modelling and Product design
+
+#### S.C. LITRA SRL - Product Design and Web UX/UI - 2014-2016
 * 3D Modelling in Cinema4D and Autodesk
 * Vector design in Illustrator and photo correction with Photoshop
-* WordPress integration with WooCommerce and
+* WordPress integration with WooCommerce
 
 <!--OpenS-->
 Open Source Experience
