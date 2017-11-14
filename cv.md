@@ -1,13 +1,14 @@
 <!--Name & Interest-->
 # Mihai-Emilian Buduroi
-
 ##### Interested in Software Engineering and Network Security
+
+Most recent version of my CV can be found [here](https://github.com/bemihai22/CV/blob/master/cv.md)
 
 <!--Statement-->
 > Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in MEng Computer Science with Software Engineering and work as a DevOps engineer.
 
 <!--Contact Information-->
-[__linkedin.com/in/be-mihai__](https://www.linkedin.com/in/be-mihai/)   | [github.com/bemihai22](https://github.com/bemihai22) |[stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bemihai22)  
+[__linkedin.com/in/be-mihai__](https://www.linkedin.com/in/be-mihai/)   | [__github.com/bemihai22__](https://github.com/bemihai22) |[__stackoverflow/bemihai22__](https://stackoverflow.com/users/7056603/bemihai22)  
 07398137319 __|__ be.mihai22@gmail.com   
 Wheeleys Lane, Birmingham, United Kingdom  
 
@@ -17,7 +18,7 @@ Wheeleys Lane, Birmingham, United Kingdom
 Key Skills
 ----------
 #### Technical Experience
-* Skilled in object-oriented and multi-threading programming | [JAVA](https://github.com/bemihai22/talktostrangersCMD)
+* Skilled in object-oriented and multi-threading programming | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD)
 * Successes in programming with functional programming languages (Kotlin, Haskell, OCaml, PHP)
 * Experienced in requirement analysis, software design and deployment
 * Android Development on Android SDK Platform 25+
