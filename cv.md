@@ -1,12 +1,13 @@
 <!--Name & Interest-->
 # Mihai-Emilian Buduroi
-##### Interested i n Software Engineering and Network Security
+
+##### Interested in Software Engineering and Network Security
 
 <!--Statement-->
 > Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in MEng Computer Science with Software Engineering and work as a DevOps engineer.
 
 <!--Contact Information-->
-[linkedin.com/in/be-mihai](https://www.linkedin.com/in/be-mihai/)   | [github.com/bemihai22](https://github.com/bemihai22) |[stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bemihai22)  
+[__linkedin.com/in/be-mihai__](https://www.linkedin.com/in/be-mihai/)   | [github.com/bemihai22](https://github.com/bemihai22) |[stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bemihai22)  
 07398137319 __|__ be.mihai22@gmail.com   
 Wheeleys Lane, Birmingham, United Kingdom  
 
@@ -18,7 +19,6 @@ Key Skills
 #### Technical Experience
 * Skilled in object-oriented and multi-threading programming | [JAVA](https://github.com/bemihai22/talktostrangersCMD)
 * Successes in programming with functional programming languages (Kotlin, Haskell, OCaml, PHP)
-* Very fast to pick up new skills and languages and implement them effectively
 * Experienced in requirement analysis, software design and deployment
 * Android Development on Android SDK Platform 25+
 * Experienced with RESTful API and JSON
@@ -33,8 +33,9 @@ Key Skills
 
 <!--Volunteering-->
 #### Volunteering
-* Software Engineering representant in School of Computer Science Committee
-* GitHub Campus Expert
+* Software Engineering representative
+ in School of Computer Science Committee
+* GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017
 
 <!--School-->
 Education
@@ -55,7 +56,7 @@ Work Experience
 ---------------
 
 
-#### S.C. LITRA SRL - Product Design and Web UX/UI - 2014-2016
+#### S.C. LITRA SRL - Product Design and Web UX/UI, Jun 2014- Sep 2016
 * 3D Modelling in Cinema4D and Autodesk
 * Vector design in Illustrator and photo correction with Photoshop
 * WordPress integration with WooCommerce
@@ -87,7 +88,7 @@ Open Source Experience
 
 
 ##### Languages spoken
-* _**English**_ (Proffessional)
+* _**English**_ (Professional)
 * _**Romanian**_ (Native)
 * _**French**_ (Intermediate)
 
@@ -96,6 +97,3 @@ Hobbies
 -------
 >In my free time I like to find better ways to solve trivial problems, by soldering, programming or simply reading articles or following tutorials. I also like to play basketball and ride a bicycle.
 <!--Body End -->
-
-
-Most recent version of my CV can be found [here](https://github.com/bemihai22/CV/blob/master/cv.md).
