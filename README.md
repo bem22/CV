@@ -4,7 +4,8 @@
 
 Multiple branches will become available as I advance in my learning and career.
 
-
-| Version History |
-| --- |
-| 1.7111 |
+-------------------     ----------------------------
+1 MyAddress                        email@example.com
+MyTown 1000                          @twitter_handle
+MyCountry                           1800 my-phone-nr
+-------------------     ----------------------------
