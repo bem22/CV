@@ -77,11 +77,12 @@ Open Source Experience
 
 <!--In the house-->
 #### Selft Teach
-* GitHub Open Fork
-* RESTful applications
+* Google Cloud
+* RESTful APIs
+* PHP
 * Implementing new skills for Amazon Alexa
 * Android Development (Udacity)
-* PHP
+
 
 ##### Languages spoken
 * _**English**_ (Proffessional)
