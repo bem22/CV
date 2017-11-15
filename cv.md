@@ -1,7 +1,6 @@
 <!--Name & Interest-->
 # Mihai-Emilian Buduroi
 ##### Interested in Software Engineering and Network Security
-
 Most recent version of my CV can be found [here](https://github.com/bemihai22/CV/blob/master/cv.md)
 
 <!--Statement-->
@@ -52,6 +51,7 @@ __National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasa
 > - 1st in Advanced Maths - 90.0%
 > - 1st in Computer Science subject - 91.0% (C++ Programming)
 
+
 <!--Work-->
 Work Experience
 ---------------
@@ -81,9 +81,9 @@ Open Source Experience
 
 <!--In the house-->
 #### Selft Teach
-* Google Cloud
+* C++ for [mbed (ARM)](https://github.com/bemihai22/mbed)
 * RESTful APIs
-* PHP
+* PHP & Google Cloud
 * Implementing new skills for Amazon Alexa
 * Android Development (Udacity)
 
