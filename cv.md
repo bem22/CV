@@ -96,5 +96,5 @@ Open Source Experience
 <!--What I love-->
 Hobbies
 -------
->In my free time I like to find better ways to solve trivial problems, by soldering, programming or simply reading articles or following tutorials. I also like to play basketball and ride a bicycle.
+>In my free time I like to find better ways to solve trivial problems, by soldering, programming or simply reading articles or following tutorials. I am also interested in 3D printing and quadcopters.
 <!--Body End -->
