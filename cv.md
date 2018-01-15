@@ -29,7 +29,7 @@ Key Skills
 #### Leadership
 * Software Engineering project leader 2017-2018 with 1st class awarded grade
 * Professional Computing group presentation leader 2017-2018, showcasing Internet [Censorship](https://docs.google.com/presentation/d/1G9AnpxJD_0iL3ISDxj3EJGa80AkJNM933q1JZQ2uzjU/edit?usp=sharing)
-* University Business Challenge 2017, where a team of 5 leads a simulated company and the goal is to obtain the best profit after 8 trading periods.
+* University Business Challenge 2017, first team in the preliminary stage, where a team of 5 leads a simulated company and the goal is to obtain the best profit after 8 trading periods
 
 <!--Volunteering-->
 #### Volunteering
