@@ -19,10 +19,11 @@ Key Skills
 #### Technical Experience
 * Skilled in object-oriented and multi-threading programming | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD)
 * Successes in programming with functional programming languages (Kotlin, Haskell, OCaml)
-* Experienced in requirement analysis, software design and deployment
-* Android Development on Android SDK Platform 25+
-* Experienced with RESTful API and JSON
-* SQL with PostgreSQL, MYSQL, NoSQL
+* Experienced with build tools such as Maven and Graddle for dependency management and deployment
+* Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
+* Android Development for Phones and Wearables
+* Experienced with RESTful APIs and JSON
+* SQL with PostgreSQL, MYSQL
 * Excellent teamwork with version control: GIT on Github and Gitlab
 
 <!--Leadership-->
