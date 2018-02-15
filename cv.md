@@ -83,10 +83,9 @@ Open Source Experience
 <!--In the house-->
 #### Selft Teach
 * Objective C++ (https://github.com/bemihai22/drone)
-* RESTful APIs
-* Amazon Web Services EC2 
+* RESTful APIs (https://github.com/bemihai22/christmas-crackers-dbm)
+* Amazon Web Services EC2 Management
 * Android Development
-
 
 ##### Languages spoken
 * _**English**_ (Professional)
