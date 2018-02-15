@@ -81,11 +81,10 @@ Open Source Experience
 
 <!--In the house-->
 #### Selft Teach
-* C++ for [mbed (ARM)](https://github.com/bemihai22/mbed)
+* Objective C++ (https://github.com/bemihai22/drone)
 * RESTful APIs
-* PHP & Google Cloud
-* Implementing new skills for Amazon Alexa
-* Android Development (Udacity)
+* Amazon Web Services EC2 
+* Android Development
 
 
 ##### Languages spoken
