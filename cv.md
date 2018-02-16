@@ -8,8 +8,6 @@
 
 <!--Statement-->
 > Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in **MEng Computer Science with Software Engineering** and work as a DevOps engineer.
-   
-Wheeleys Lane, Birmingham, United Kingdom  
 
 <!--Body Start -->
 
@@ -19,7 +17,7 @@ Key Skills
 #### Technical Experience
 * Skilled in object-oriented and multi-threading programming | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD)
 * Successes in programming with functional programming languages (Kotlin, Haskell, OCaml)
-* Experienced with build tools such as Maven and Graddle for dependency management and deployment
+* Experienced with build tools such as Maven and Graddle for dependency management and deployment [__Maven Project__] (https://github.com/bemihai22/christmas-crackers-dbm)
 * Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
 * Android Development for Phones and Wearables
 * Experienced with RESTful APIs and JSON
@@ -42,10 +40,10 @@ Key Skills
 Education
 ---------  
 
- __MEng Computer Science__ with _Software Engineering_ at __Birmingham University__ - 2016 - __Now__  
+ __BSc Computer Science__ with _Software Engineering_ at __Birmingham University__ - 2016 - __Now__  
 
 >  - On track for a 2.1
->  - Studying Functional Programming, C++ and SQL as part of my course  
+>  - Studying Object Oriented Programming, Software Engineering and Security as part of my course  
 
 __National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasarab.ro/cnimb/) - 2012-2016  
 
@@ -72,7 +70,7 @@ Open Source Experience
 * BrumHack 2017
 * Aston Hack 2017 - Best Use of Hardware Award
 * Hacknotts 2017 - Second Prize in Bloomberg Hackerrank Challenge
-* Student Hack V 2016 - Participated with a team of 4, discovering the potential of Amazon Alexa
+* Student Hack V 2016 - Amazon Award - Best use of Amazon Alexa
 
 <!--Confs-->
 #### Conferences
@@ -94,6 +92,6 @@ Open Source Experience
 
 <!--What I love-->
 Hobbies
--------
->In my free time I like to find better ways to solve trivial problems, by soldering, programming or simply reading articles or following tutorials. I am also interested in 3D printing and quadcopters.
+-------  
+>In my free time I try to master soldering and create IoT projects. I also enjoy computer games, especially the competitive ones, such as League of Legends and FIFA. Early mornings start with a 4k run and evenings normally end with a good book.
 <!--Body End -->
