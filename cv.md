@@ -50,6 +50,8 @@ __National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasa
 > - 1st in Advanced Maths - 90.0%
 > - 1st in Computer Science subject - 91.0% (C++ Programming)
 
+<br/>
+<br/>
 
 <!--Work-->
 Work Experience
