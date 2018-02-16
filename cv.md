@@ -1,14 +1,14 @@
 <!--Name & Interest-->
 # Mihai-Emilian Buduroi
-##### Interested in Software Engineering and Network Security
-Most recent version of my CV can be found [here](https://github.com/bemihai22/CV/blob/master/cv.md)
-
-<!--Statement-->
-> Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in **MEng Computer Science with Software Engineering** and work as a DevOps engineer.
 
 <!--Contact Information-->
 [__linkedin.com/in/be-mihai__](https://www.linkedin.com/in/be-mihai/) | [__github.com/bemihai22__](https://github.com/bemihai22) |  [__stackoverflow/bemihai22__](https://stackoverflow.com/users/7056603/bemihai22)  
-07398137319 __|__ be.mihai22@gmail.com   
+07398137319 __|__ be.mihai22@gmail.com
+##### Interested in Software Engineering and Cloud Development
+
+<!--Statement-->
+> Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in **MEng Computer Science with Software Engineering** and work as a DevOps engineer.
+   
 Wheeleys Lane, Birmingham, United Kingdom  
 
 <!--Body Start -->
