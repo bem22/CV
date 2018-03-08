@@ -1,13 +1,15 @@
 <!--Name & Interest-->
 # Mihai-Emilian Buduroi
-##### Interested in Software Engineering and Cloud Development
 
+##### Interested in Software Engineering and Networks Development
+
+<br>
 <!--Contact Information-->
 [__linkedin.com/in/be-mihai__](https://www.linkedin.com/in/be-mihai/) | [__github.com/bemihai22__](https://github.com/bemihai22) |  [__stackoverflow/bemihai22__](https://stackoverflow.com/users/7056603/bemihai22)  
 07398137319 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in **MEng Computer Science with Software Engineering** and work as a DevOps engineer.
+> Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in **BSc Computer Science with Software Engineering** and work as a DevOps engineer.
 
 <!--Body Start -->
 
@@ -15,32 +17,20 @@
 Key Skills
 ----------
 #### Technical Experience
-* Skilled in object-oriented and multi-threading programming | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD)
+* Skilled in object-oriented and multi-threading programming | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), [__C++__](https://github.com/bemihai22)
 * Successes in programming with functional programming languages (Kotlin, Haskell, OCaml)
-* Experienced with build tools such as Maven and Graddle for dependency management and deployment [__Maven Project__] (https://github.com/bemihai22/christmas-crackers-dbm)
+* Experienced with build tools such as Maven and Graddle for dependency management and deployment - [__Maven Project__](https://github.com/bemihai22/christmas-crackers-dbm)
 * Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
 * Android Development for Phones and Wearables
 * Experienced with RESTful APIs and JSON
 * SQL with PostgreSQL, MYSQL
 * Excellent teamwork with version control: GIT on Github and Gitlab
 
-<!--Leadership-->
-#### Leadership
-* Software Engineering project leader 2017-2018 with 1st class awarded grade
-* Professional Computing group presentation leader 2017-2018, showcasing Internet [Censorship](https://docs.google.com/presentation/d/1G9AnpxJD_0iL3ISDxj3EJGa80AkJNM933q1JZQ2uzjU/edit?usp=sharing)
-* University Business Challenge 2017, first team in the preliminary stage, where a team of 5 leads a simulated company and the goal is to obtain the best profit after 8 trading periods
-
-<!--Volunteering-->
-#### Volunteering
-* Software Engineering representative
- in School of Computer Science Committee
-* GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017
-
 <!--School-->
 Education
 ---------  
 
- __BSc Computer Science__ with _Software Engineering_ at __Birmingham University__ - 2016 - __Now__  
+ __BSc Computer Science__ with _Software Engineering_ at __Birmingham University__ - 2016 - 2019
 
 >  - On track for a 2.1
 >  - Studying Object Oriented Programming, Software Engineering and Security as part of my course  
@@ -50,25 +40,40 @@ __National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasa
 > - 1st in Advanced Maths - 90.0%
 > - 1st in Computer Science subject - 91.0% (C++ Programming)
 
-<br/>
-<br/>
 
 <!--Work-->
 Work Experience
 ---------------
-
+#### IT Project Manager at Study Abroad & Exchanges, University of Birmingham, Feb 2018 - Now
+* Managed a project in which I securely translated a database in order to comply with European Commission Regulations
+* Redesigned the Study Abroad & Exchanges online page
+* Optimized the website for Google, Bing and DuckDuckGo search
+* Created user manuals for Canvas tool
+* Integrated custom plugins with the current website
 
 #### S.C. LITRA SRL - Product Design and Web UX/UI, Jun 2014- Sep 2016
 * 3D Modelling in Cinema4D and Autodesk
 * Vector design in Illustrator and photo correction with Photoshop
 * WordPress integration with WooCommerce
 
+<!--Volunteering-->
+#### Volunteering
+* Software Engineering representative
+ in School of Computer Science Committee
+* GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017
+
+<!--Leadership-->
+#### Leadership
+* Software Engineering project leader 2017-2018 with 1st class awarded grade
+* Professional Computing group presentation leader 2017-2018, showcasing Internet [Censorship](https://docs.google.com/presentation/d/1G9AnpxJD_0iL3ISDxj3EJGa80AkJNM933q1JZQ2uzjU/edit?usp=sharing)
+* University Business Challenge 2017, #1 team in the preliminary stage, where a team of 5 leads a simulated company and the goal is to obtain the best profit after 8 trading periods
+
 <!--OpenS-->
 Open Source Experience
 ----------------------
 
 <!--Le Hacks-->
-##### Awards and Hackathons
+#### Awards and Hackathons
 * BrumHack 2017
 * Aston Hack 2017 - Best Use of Hardware Award
 * Hacknotts 2017 - Second Prize in Bloomberg Hackerrank Challenge
@@ -87,7 +92,7 @@ Open Source Experience
 * Amazon Web Services EC2 Management
 * Android Development
 
-##### Languages spoken
+## Languages spoken
 * _**English**_ (Professional)
 * _**Romanian**_ (Native)
 * _**French**_ (Intermediate)
@@ -95,5 +100,5 @@ Open Source Experience
 <!--What I love-->
 Hobbies
 -------  
->In my free time I try to master soldering and create IoT projects. I also enjoy computer games, especially the competitive ones, such as League of Legends and FIFA. Early mornings start with a 4k run and evenings normally end with a good book.
+>In my free time I try to master soldering and create IoT projects. I also enjoy computer games, especially the competitive ones, such as League of Legends and FIFA. Early mornings start with a 4k run and evenings normally end with training in the gym.
 <!--Body End -->
