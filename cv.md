@@ -9,7 +9,7 @@
 07398137319 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Second year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in **BSc Computer Science with Software Engineering** and work as a DevOps engineer.
+> Second-year student with technical experience in developing advanced standard-based applications and 2 years in front-end development. My plan is to complete my degree in **BSc Computer Science with Software Engineering** and work as a DevOps engineer.
 
 <!--Body Start -->
 
@@ -20,7 +20,7 @@ Education
  __BSc Computer Science__ with _Software Engineering_ at __Birmingham University__ - 2016 - 2019
 
 >  - On track for a 2.1
->  - Studying Object Oriented Programming, Software Engineering and Security as part of my course  
+>  - Studying Object-Oriented Programming, Software Engineering, and Security as part of my course  
 
 __National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasarab.ro/cnimb/) - 2012-2016  
 
@@ -32,7 +32,7 @@ Key Skills
 ----------
 #### Technical Experience
 * Skilled in object-oriented, multi-threading programming and networking with Java and C++ | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), C++
-* Experienced with build tools such as Maven and Graddle for dependency management and deployment - [__Maven Project__](https://github.com/bemihai22/christmas-crackers-dbm)
+* Experienced with build tools such as Maven and Gradle for dependency management and deployment - [__Maven Project__](https://github.com/bemihai22/christmas-crackers-dbm)
 * Excellent teamwork with version control: GIT on Github and Gitlab
 * SQL with PostgreSQL, MYSQL
 * Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
@@ -62,12 +62,12 @@ Work Experience
  - Arranged deadline extensions for Software Engineering course where needed
 * GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017
  - Represented my school in a hackathon where GitHub was sponsoring
- - Offered GitHub crash courses to first year students
+ - Offered GitHub crash courses to first-year students
  - Met with other developers and discussed about potential features of GitHub
 
 <!--Leadership-->
 #### Leadership
-* Software Engineering project leader 2017-2018 with 1st class awarded grade
+* Software Engineering project leader 2017-2018 with 1st awarded
 * Professional Computing group presentation leader 2017-2018, showcasing Internet [Censorship](https://docs.google.com/presentation/d/1G9AnpxJD_0iL3ISDxj3EJGa80AkJNM933q1JZQ2uzjU/edit?usp=sharing)
 * University Business Challenge 2017, #1 team in the preliminary stage, where a team of 5 leads a simulated company and the goal is to obtain the best profit after 8 trading periods
 
