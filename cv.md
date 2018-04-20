@@ -13,19 +13,6 @@
 
 <!--Body Start -->
 
-<!--Highlights -->
-Key Skills
-----------
-#### Technical Experience
-* Skilled in object-oriented and multi-threading programming | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), [__C++__](https://github.com/bemihai22)
-* Successes in programming with functional programming languages (Kotlin, Haskell, OCaml)
-* Experienced with build tools such as Maven and Graddle for dependency management and deployment - [__Maven Project__](https://github.com/bemihai22/christmas-crackers-dbm)
-* Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
-* Android Development for Phones and Wearables
-* Experienced with RESTful APIs and JSON
-* SQL with PostgreSQL, MYSQL
-* Excellent teamwork with version control: GIT on Github and Gitlab
-
 <!--School-->
 Education
 ---------  
@@ -40,6 +27,18 @@ __National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasa
 > - 1st in Advanced Maths - 90.0%
 > - 1st in Computer Science subject - 91.0% (C++ Programming)
 
+<!--Highlights -->
+Key Skills
+----------
+#### Technical Experience
+* Skilled in object-oriented, multi-threading programming and networking with Java and C++ | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), C++
+* Experienced with build tools such as Maven and Graddle for dependency management and deployment - [__Maven Project__](https://github.com/bemihai22/christmas-crackers-dbm)
+* Excellent teamwork with version control: GIT on Github and Gitlab
+* SQL with PostgreSQL, MYSQL
+* Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
+* Android Development for Phones and Wearables
+* Experienced with RESTful APIs and JSON
+* Successes in programming with functional programming languages (Haskell, OCaml)
 
 <!--Work-->
 Work Experience
@@ -58,9 +57,13 @@ Work Experience
 
 <!--Volunteering-->
 #### Volunteering
-* Software Engineering representative
- in School of Computer Science Committee
+* Software Engineering representative in School of Computer Science Committee
+ - Debated important problems regarding module choices, SoCS module format
+ - Arranged deadline extensions for Software Engineering course where needed
 * GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017
+ - Represented my school in a hackathon where GitHub was sponsoring
+ - Offered GitHub crash courses to first year students
+ - Met with other developers and discussed about potential features of GitHub
 
 <!--Leadership-->
 #### Leadership
@@ -75,28 +78,29 @@ Open Source Experience
 <!--Le Hacks-->
 #### Awards and Hackathons
 * BrumHack 2017
-* Aston Hack 2017 - Best Use of Hardware Award
+ - MultiPurpose ESP8266 low power WI-FI button (C++)
+* Aston Hack 2017 - Best Use of Hardware Award 
+ - Made an audio sampler using MakeyMakey and RaspberryPI
 * Hacknotts 2017 - Second Prize in Bloomberg Hackerrank Challenge
+ - HackerRank
 * Student Hack V 2016 - Amazon Award - Best use of Amazon Alexa
-
-<!--Confs-->
-#### Conferences
-* Hacktoberfest 2017
-* AWS Summit London 2017
-* Black Hat London 2016
-
 <!--In the house-->
-#### Selft Teach
+#### Self Teach
 * Objective C++ (https://github.com/bemihai22/drone)
+  - Drone prototype for my Final Year Project, which will be a low cost drone, built from scratch
 * RESTful APIs (https://github.com/bemihai22/christmas-crackers-dbm)
+  - Toying with 3 API's to create organic data
 * Amazon Web Services EC2 Management
+  - Use in Team Project (module) to host a server for a game
 * Android Development
+  - Also part of my Final Year Project
 
 ## Languages spoken
 * _**English**_ (Professional)
+  - IELTS band B1
 * _**Romanian**_ (Native)
 * _**French**_ (Intermediate)
-
+  - DELF band A2
 <!--What I love-->
 Hobbies
 -------  
