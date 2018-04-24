@@ -57,13 +57,13 @@ Work Experience
 
 <!--Volunteering-->
 #### Volunteering
-* Software Engineering representative in School of Computer Science Committee
- - Debated important problems regarding module choices, SoCS module format
+* Software Engineering representative in School of Computer Science Committee  
+ - Debated important problems regarding module choices, SoCS module format  
  - Arranged deadline extensions for Software Engineering course where needed
-* GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017
- - Represented my school in a hackathon where GitHub was sponsoring
- - Offered GitHub crash courses to first-year students
- - Met with other developers and discussed about potential features of GitHub
+* GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017  
+ - Represented my school in a hackathon where GitHub was sponsoring  
+ - Offered GitHub crash courses to first-year students  
+ - Met with other developers and discussed about potential features of GitHub  
 
 <!--Leadership-->
 #### Leadership
