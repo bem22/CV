@@ -89,9 +89,9 @@ Open Source Experience
 * Objective C++ (https://github.com/bemihai22/drone)
   - Drone prototype for my Final Year Project, which will be a low cost drone, built from scratch
 * RESTful APIs (https://github.com/bemihai22/christmas-crackers-dbm)
-  - Toying with 3 API's to create organic data
+  - Merged 3 API's to create organic data
 * Amazon Web Services EC2 Management
-  - Use in Team Project (module) to host a server for a game
+  - Used in Team Project (module) to host a server for a game
 * Android Development
   - Also part of my Final Year Project
 
