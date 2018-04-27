@@ -47,7 +47,7 @@ Work Experience
 * Managed a project in which I securely translated a database in order to comply with European Commission Regulations
 * Redesigned the Study Abroad & Exchanges online page
 * Optimized the website for Google, Bing and DuckDuckGo search
-* Created user manuals for Canvas tool
+* Created user manuals for University Virtual Learning Envrionment (Canvas) tool
 * Integrated custom plugins with the current website
 
 #### S.C. LITRA SRL - Product Design and Web UX/UI, Jun 2014- Sep 2016
@@ -59,11 +59,10 @@ Work Experience
 #### Volunteering
 * Software Engineering representative in School of Computer Science Committee  
   - Debated important problems regarding module choices, SoCS module format  
-  - Arranged deadline extensions for Software Engineering course where needed
+  - Resolved deadline clashes by negotiating submission deadlines for my year group
 * GitHub ["Campus Expert"](https://github.com/campus-experts) since October 2017  
-  - Represented my school in a hackathon where GitHub was sponsoring  
   - Offered GitHub crash courses to first-year students  
-  - Met with other developers and discussed about potential features of GitHub  
+  - One of 300 selected to offer feedback on GitHub features
 
 <!--Leadership-->
 #### Leadership
@@ -95,12 +94,8 @@ Open Source Experience
 * Android Development
   - Also part of my Final Year Project
 
-## Languages spoken
-* _**English**_ (Professional)
-  - IELTS band B1
-* _**Romanian**_ (Native)
-* _**French**_ (Intermediate)
-  - DELF band A2
+## Additional languages
+* _**Romanian**_ (Native), * _**French**_ (Intermediate) 
 <!--What I love-->
 Hobbies
 -------  
