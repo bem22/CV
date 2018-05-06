@@ -1,7 +1,7 @@
 <!--Name & Interest-->
 # Mihai-Emilian Buduroi
 
-##### Interested in Software Engineering and Networks Development
+##### Interested in Software Engineering and DevOps
 
 <br>
 <!--Contact Information-->
@@ -33,6 +33,7 @@ Key Skills
 #### Technical Experience
 * Skilled in object-oriented, multi-threading programming and networking with Java and C++ | [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), C++
 * Experienced with build tools such as Maven and Gradle for dependency management and deployment - [__Maven Project__](https://github.com/bemihai22/christmas-crackers-dbm)
+* Skilled in SCRUM, Kanban and other Agile practices and methodologies
 * Excellent teamwork with version control: GIT on Github and Gitlab
 * SQL with PostgreSQL, MYSQL
 * Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
