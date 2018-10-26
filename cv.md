@@ -5,7 +5,7 @@
 
 <br>
 <!--Contact Information-->
-[I'm an inline-style link](https://www.google.com)
+[ I'm an inline-style link ](https://www.google.com)
 [linkedin.com/in/be-mihai](https://www.linkedin.com/in/be-mihai) | [__github.com/bemihai22__](https://github.com/bemihai22) |  [stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bemihai22)  
 07398137319 __|__ be.mihai22@gmail.com
 
@@ -23,7 +23,7 @@ Education
 >  - On track for a 2.1
 >  - Studying Object-Oriented Programming, Software Engineering, and Security as part of my course  
 
-__National College of Computer Science__ [_"Matei Basarab"_](http://cnimateibasarab.ro/cnimb/) - 2012-2016  
+__National College of Computer Science__ [_"Matei Basarab" ](http://cnimateibasarab.ro/cnimb/) - 2012-2016  
 
 > - 1st in Advanced Maths - 90.0%
 > - 1st in Computer Science subject - 91.0% (C++ Programming)
