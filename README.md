@@ -1,5 +1,9 @@
-##### CV
+# Mihai Emilian - Curriculum Vitae
 
-#### I have created this repository to make my CV public and easy to edit.
+### I have created this repository to make my CV public and easy to edit.
+------
 
-Multiple branches will become available as I advance in my learning and career.
+> ### MD is the perfect markup language for my needs.
+
+
+> ### Feel free to clone and use my template

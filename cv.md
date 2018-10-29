@@ -52,7 +52,10 @@ __National College of Computer Science__[ "Matei Basarab"](http://cnimateibasara
 #### PHP Developer - Magic 42
 > 
 >
->
+> + Organised, with grea success, fitness workshops
+>   - Shared my knowledge about dieting
+>   - Explained, based on recent studies what muscle gain is and how it can be achieved
+>   - Targeted topics like sleep, nutrition and hormone balance
 
 #### Freelance Web Developer 
 > + Developed a website for a real estate agency
