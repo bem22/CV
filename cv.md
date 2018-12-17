@@ -1,4 +1,4 @@
-Name & Interest
+<!--Name & Interest-->
 
 # Mihai-Emilian Buduroi
 
@@ -19,13 +19,13 @@ Name & Interest
 ## Education
 ------------  
 
- __BSc Computer Science__ with _an Industrial Year_ at __Birmingham University__ - 2016 - 2020
+ __BSc Computer Science__ with _a Year in Industry_ at __University of Birmingham__ - 2016 - 2020
 
 >  - On track for a 2.1
 >  - Studying Object-Oriented Programming, Software Engineering and Computer Systems & Architecture
->  - Sharpening my management skills by trying to occupy managerial positions in team projects
+>  - Managing team projects further developing my leadership skills 
 
-__National College of Computer Science__[ "Matei Basarab"](http://cnimateibasarab.ro/cnimb/) - 2012-2016  
+__National College of Computer Science__[ "Matei Basarab", Romania  ](http://cnimateibasarab.ro/cnimb/) - 2012-2016  
 
 > - 1st in Advanced Maths - 90.0%
 > - 1st in Computer Science subject - 91.0% (C++ Programming)
@@ -36,64 +36,67 @@ __National College of Computer Science__[ "Matei Basarab"](http://cnimateibasara
 -------------
 
 ### Technical Experience
->  + Skilled in object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), C++ and PHP 
-> + Experienced with continous integration tools such as Jenkins/Hudson, GoCD 
-> + Experienced with build tools such as Maven and Gradle for dependency management and deployment - [__Maven Project__](https://github.com/bemihai22/christmas-crackers-dbm)
-> + Skilled in SCRUM, Kanban and Agile practices and methodologies
-> + Excellent teamwork with version control: SVN, [Git](https://github.com/bemihai22), BitBucket
+>  + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), C++ and PHP 
+> + Agile practices and methodologies: Scrum / Kanban 
+> + Version control: SVN, [Git](https://github.com/bemihai22), BitBucket
 > + Skilled in [__SQL__](https://github.com/bemihai22/christmas-crackers-dbm)
-> + Experienced with logging and testing tools such as log4j 2.0 and JUnit 5
-> + Experienced with RESTful [APIs and JSON](https://github.com/bemihai22/christmas-crackers-dbm)
+> + RESTful [APIs and JSON](https://github.com/bemihai22/christmas-crackers-dbm)
+> + Continous integration tools such as Jenkins/Hudson, GoCD 
+> + Build tools such as
+[__Maven__](https://github.com/bemihai22/christmas-crackers-dbm) and Gradle for dependency management and deployment
+> + Logging and testing tools such as log4j 2.0 and JUnit 5
 
 <!--Work-->
 
 ## Work Experience
 ---------------
 
-#### Web Developer - Magic 42 - October 2018 - Now
-> + Implemented code daily  
->   - Used PHP, javascript/jQuery and markup languages to extend webplatform functionality
->   - Created reviews for code and participated in functionality demonstrations 
->   - Researched and helped to architect the front-end of new platform using MVC 
+#### Web Developer - [Magic 42](https://www.magic42.co.uk/), Birmingham - October 2018 - Present
+> + Implementing code daily  
+>   - Using PHP, JavaScript/jQuery and markup languages to extend webplatform functionality
+>   - Creating reviews for code and participating in functionality demonstrations 
+>   - Researching and helping to architect the front-end of new platform using MVC 
 
-> + Improved internal practices and established strong code standards practices based on PHP Standards Recommendations
-> + Solved recurring development environment problems with Vagrant and composer, improving team productivity
-> + Got certified in javascript and scss
+> + Improving internal practices and establishing strong code standards practices based on [__PSR__](https://www.php-fig.org/psr/)
+> + Solving recurring Vagrant and Docker problems , improving team productivity
+> + Certification in progress for JavaScript and jQuery
 
-> + Organised, with great success, fitness workshops
->   - Shared my knowledge about dieting
->   - Explained, based on recent studies what muscle gain is and how it can be achieved
->   - Targeted topics like sleep, nutrition and hormone balance
+> + Presented and organised a fitness workshop for my collegues
+>    - All participants were engaged in the interactive workshop
+>    - Shared my knowledge about exercise and nutrition
 
-#### IT Project Manager at Study Abroad & Exchanges, University of Birmingham, Feb 2018 - Now
+
+#### IT Project Manager at Study Abroad & Exchanges, University of Birmingham, Feb 2018 - Present
 > + Optimized the website for search engines
 > + Created user manuals for University Virtual Learning Envrionment
 > + Integrated plugins with University of Birmingham's website
 
 #### Freelance Web Developer - Summer 2018
 > + Developed a website for a real estate agency
->   - Currently live website: https://imobiliare007.ro/
->   - Hosted on amazon, developed over Wordpress CMS with a theme made integrally by myself
+>   - Currently [live website](http://imobiliare007.ro/)
+>   - Hosted on Amazon, with Wordpress CMS using a theme independently developed by myself
 >   - Integrated plugins: 
->       + to be able to track ussage and dataLayer (with GoogleTag Manager)       
->       + to increase propriety visibility on google
->       + to support multilanguage
+>       + Track ussage and dataLayer (with Google Tag Manager)       
+>       + Increase propriety visibility on Google
+>       + Support multiple languages
 
 <!--Volunteering-->
 
 #### Volunteering
-> + Software Engineering representative in School of Computer Science Committee  
->   - Debated important problems regarding module choices, SoCS module format  
+> + Software Engineering Representative in Staff Student Consultative Committee (School of Computer Science)  
+>   - Contributed ideas regarding module choices, SoCS module format  
 >   - Resolved deadline clashes by negotiating submission deadlines for my year group
 
-> + British Red Cross 
->    - Event First Aid Service Volunteer
+> + Red Cross Volunteer 
+>    - First Aid Service Volunteer in Romania
 
 <!--Leadership-->
 #### Leadership
-> + Software Engineering project leader 2017-2018 with 1st awarded
-> + Professional Computing group leader 2017-2018, showcasing Internet [Censorship](https://docs.google.com/presentation/d/1G9AnpxJD_0iL3ISDxj3EJGa80AkJNM933q1JZQ2uzjU/edit?usp=sharing)
-> + University Business Challenge 2017, #1 team in the preliminary stage, where a team of 5 leads a simulated company and the goal is to obtain the best profit after 8 trading periods
+> + Project Lead for Software Engineering module group work 2017-2018 with 1st awarded
+> + Lead my team in Professional Computing module group work 2017-2018, showcasing [Internet Censorship](https://docs.google.com/presentation/d/1G9AnpxJD_0iL3ISDxj3EJGa80AkJNM933q1JZQ2uzjU/edit?usp=sharing) 
+> + Managed my team in the [IBM University Business Challenge 2017](http://www.ubcworldwide.com/) - #1 team in the preliminary stage and obtained a [certificate](https://drive.google.com/file/d/1bLUAyZbDXOEp0mqnX6ZaSkOoPalpUIq4/view?usp=sharing)
+
+
 
 <!--OpenS-->
 Open Source Experience
@@ -116,7 +119,7 @@ Open Source Experience
 
 <!--In the house-->
 
-#### Self Teach
+#### Self Taught Skills
 > + Objective C++ (https://github.com/bemihai22/drone)
 >   - Drone prototype for my Final Year Project, which will be a low cost drone, built from scratch
 
@@ -131,16 +134,17 @@ Open Source Experience
 
 ## Additional languages
 
-> _**Romanian**_ (Native), _**English**_ (Proffessional)  _**French**_ (Intermediate) 
+> _**Romanian**_ (Native), _**English**_ (Fluent)  _**French**_ (Intermediate) 
 
 <!--The person-->
 Hobbies
 -------  
-> * Fitness is something that I am very commited to
->   - For the past 18 months I have been training 5 times a week
->   - I have demonstrated a lot of patience to get extraordinary results naturally
->   - Gained about 19kg in about two years
->   - Dramatically improved my overall health and appearance
-> * I love cycling on any weather
+> * Fitness and cycling
+>   - Training 5 times a week for the past 18 months
+>   - Demonstrates patience and perseverence to get significant results naturally 
+>   - Cycled to work every day (10 mile roundtrip)
 
+> * Music
+>   * Taught myself piano in my own time  
+>   * Sang as a part of a youth choir for 3 years
 <!--Body End -->
