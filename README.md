@@ -33,14 +33,14 @@ __National College of Computer Science__[ "Matei Basarab", Romania  ](http://cni
 -------------
 
 ### Technical Experience
-> + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bemihai22/talktostrangersCMD), C++ and PHP 
+> + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++ and PHP 
 > + Agile practices and methodologies: Scrum / Kanban 
-> + Version control: SVN, [Git](https://github.com/bemihai22), BitBucket
-> + Skilled in [__SQL__](https://github.com/bemihai22/christmas-crackers-dbm)
-> + RESTful [APIs and JSON](https://github.com/bemihai22/christmas-crackers-dbm)
+> + Version control: SVN, [Git](https://github.com/bem22), BitBucket
+> + Skilled in [__SQL__](https://github.com/bem22/christmas-crackers-dbm)
+> + RESTful [APIs and JSON](https://github.com/bem22/christmas-crackers-dbm)
 > + Continous integration tools such as Jenkins/Hudson, GoCD 
 > + Build tools such as
-[__Maven__](https://github.com/bemihai22/christmas-crackers-dbm) and Gradle for dependency management and deployment
+[__Maven__](https://github.com/bem22/christmas-crackers-dbm) and Gradle for dependency management and deployment
 > + Logging and testing tools such as log4j 2.0 and JUnit 5
 
 <!--Work-->
