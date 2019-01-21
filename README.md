@@ -6,7 +6,7 @@
 
 <!--Contact Information-->
 
-[linkedin.com/in/be-mihai](https://www.linkedin.com/in/bem22) __|__ [__github.com/bemihai22__](https://github.com/bem22) __|__ [stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bemihai22)  
+[linkedin.com/in/be-mihai](https://www.linkedin.com/in/bem22) __|__ [__github.com/bem22__](https://github.com/bem22) __|__ [stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bem22)  
 07398137319 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
