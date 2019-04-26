@@ -6,11 +6,11 @@
 
 <!--Contact Information-->
 
-[linkedin.com/in/be-mihai](https://www.linkedin.com/in/bem22) __|__ [__github.com/bem22__](https://github.com/bem22) __|__ [stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bem22)  
+[Linkedini](https://www.linkedin.com/in/bemihai22/) __|__ [__github.com/bem22__](https://github.com/bem22) __|__ [stackoverflow/bemihai22](https://stackoverflow.com/users/7056603/bem22)  
 07398137319 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Final year student with technical experience in low-level software development, web platforms and mobile apps. My plan is to complete my degree in **BSc Computer Science with an Industrial Year** and work as a DevOps engineer.
+> Final year student with great experience in web development, integration and design. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software Engineer engineer.
 
 <!--Body Start -->
 
@@ -20,7 +20,7 @@
 ------------  
  __BSc Computer Science__ with _a Year in Industry_ at __University of Birmingham__ - 2016 - 2020 
 >  - On track for a 2.1
->  - Studying Object-Oriented Programming, Software Engineering and Computer Systems & Architecture
+>  - Studying Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Software Design and Computer Systems & Architecture
 
 <!--Highlights -->
 
@@ -30,12 +30,12 @@
 ### Technical Experience
 > + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++ and PHP 
 > + Agile practices and methodologies: Scrum / Kanban 
+> + Containerization with Docker and Clustering with Kubernetes
 > + Version control: SVN, [Git](https://github.com/bem22), BitBucket
 > + Skilled in [__SQL__](https://github.com/bem22/christmas-crackers-dbm)
 > + RESTful [APIs and JSON](https://github.com/bem22/christmas-crackers-dbm)
-> + Continous integration tools such as Jenkins
-> + Build tools such as
-[__Maven__](https://github.com/bem22/christmas-crackers-dbm) and Gradle for dependency management and deployment
+> + Continous Integration with Jenkins and GitlabCI
+[__Maven__](https://github.com/bem22/christmas-crackers-dbm) 
 > + Logging and testing tools such as log4j and JUnit
 
 <!--Work-->
@@ -43,31 +43,31 @@
 ## Work Experience 
 --------------- 
 #### Web Developer - [Magic 42](https://www.magic42.co.uk/), Birmingham - October 2018 - Present
-> + Working with sensitive data and helping websithes adhere to GDPR
-> + Implementing code daily  
->   - Using PHP, JavaScript/jQuery and markup languages to extend webplatform functionality
->   - Creating reviews for code and participating in functionality demonstrations 
->   - Researching and helping to architect the front-end of new platform using MVC 
-> + Improving internal practices and establishing strong code standards practices based on [__PSR__](https://www.php-fig.org/psr/)
-> + Solving recurring Vagrant and Docker problems , improving team productivity
+> + Worked with sensitive data and implemented changes that helped businesses adhere to GDPR 
+> + Played a key role in updating clients on releases that greatly impacted business decisions
+> + Extending functionality for E-commerce web platforms: 
+>   - Using PHP, JavaScript/jQuery in frameworks like Zend2, Laravel, and Lumen
+>   - Code reviewing and participating in functionality demonstrations 
+>   - Helped in architecting the front-end of new platforms and enhancing the user experience, focusing on generating more revenue
+> + Coached new developers and improved team productivity by supporting fellow developers
+> + Improved internal practices and established strong code standards practices based on [__PSR__](https://www.php-fig.org/psr/)
+> + Influenced people towards healthy eating and exercising by organizing and hosting two workshops
 
 #### IT Project Manager at Study Abroad & Exchanges, University of Birmingham, Feb 2018 - Present
 > + Merged two databases to comply with the EU Standards
-> + Optimized the website for search engines and increased number of visits by 30%
+> + Optimized the website for search engines and increased number of visits by 17.8%
 > + Optimized workflow by writing SQL based scripts for Excel
 
 #### Freelance Web Developer - Summer 2018
 > + Developed a website for a real estate agency [live website](https://imobiliare007.ro/)
 >   - Hosted on Amazon, with Wordpress CMS using a theme independently developed by myself
->   - Integrated plugins to:
->       + Track ussage and dataLayer (with Google Tag Manager)       
->       + Increase property visibility on Google
->       + Support multiple languages
+>   - Served with Jenkins CI on releases, builds, back-ups, integration with GitHub [Jenkins](https://jenkins.imobiliare007.ro/]
+>   - Uses Google Maps API for property location and Facebook & Google Social Login APIs
 
 <!--Volunteering-->
 
 #### Volunteering
-> + Software Engineering Representative in Staff Student Consultative Committee (School of Computer Science)  
+> + Software Engineering Representative in Staff-Student Consultative Committee (School of Computer Science)  
 >   - Contributed ideas regarding module choices, SoCS module format  
 >   - Resolved deadline clashes by negotiating submission deadlines for my year group
 
@@ -117,5 +117,5 @@ Hobbies
 -------  
 > * Fitness and cycling
 >   - Training 5 times a week for the past 18 months
->   - Demonstrates patience and perseverence to get significant results naturally 
->   - Cycled to work every day (10 mile roundtrip)
+>   - Demonstrates patience and perseverance to get significant results naturally 
+>   - Cycled to work every day (10-mile roundtrip)
