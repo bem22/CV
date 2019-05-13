@@ -10,7 +10,7 @@
 07398137319 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Final year student with great experience in web development, integration and design. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software Engineer engineer.
+> Final year student with great experience in web development, integration and design. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software engineer.
 
 <!--Body Start -->
 
@@ -61,7 +61,7 @@
 #### Freelance Web Developer - Summer 2018
 > + Developed a website for a real estate agency [live website](https://imobiliare007.ro/)
 >   - Hosted on Amazon, with Wordpress CMS using a theme independently developed by myself
->   - Served with Jenkins CI on releases, builds, back-ups, integration with GitHub [Jenkins](https://jenkins.imobiliare007.ro/]
+>   - Served with Jenkins CI on releases, builds, back-ups, integration with GitHub [Jenkins](https://jenkins.imobiliare007.ro/)
 >   - Uses Google Maps API for property location and Facebook & Google Social Login APIs
 
 <!--Volunteering-->
@@ -97,7 +97,7 @@ Open Source Experience
 
 #### Self Taught Skills
 > + Objective C++ (https://github.com/bemihai22/drone)
->   - Drone prototype for my Final Year Project, which will be a low cost drone, built from scratch
+>   - Drone prototype for my Final Year Project, which will be a smart low cost drone, built from scratch
 
 > + RESTful APIs (https://github.com/bemihai22/christmas-crackers-dbm)
 >   - Merged 3 API's to create organic data 
