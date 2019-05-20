@@ -17,7 +17,6 @@
 <!--School-->
 
 ## Education
-------------  
  __BSc Computer Science__ with _a Year in Industry_ at __University of Birmingham__ - 2016 - 2020 
 >  - On track for a 2.1
 >  - Studying Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Software Design and Computer Systems & Architecture
@@ -25,7 +24,6 @@
 <!--Highlights -->
 
 ## Key Skills
--------------
 
 ### Technical Experience
 > + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++ and PHP 
@@ -41,7 +39,6 @@
 <!--Work-->
 
 ## Work Experience 
---------------- 
 #### Web Developer - [Magic 42](https://www.magic42.co.uk/), Birmingham - October 2018 - Present
 > + Worked with sensitive data and implemented changes that helped businesses adhere to GDPR 
 > + Played a key role in updating clients on releases that greatly impacted business decisions
@@ -82,7 +79,6 @@
 
 <!--OpenS-->
 Open Source Experience
-----------------------
 
 <!--Hackathons-->
 
