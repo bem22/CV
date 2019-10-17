@@ -9,7 +9,7 @@
 07398137319 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Final year student with experience in DevOps, low level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software engineer in embedded systems. I am currently working on my drone deployment network for my final year project. I am also interested in electrical engineering and PCB design.
+> Final year student with experience in DevOps, low-level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software engineer in embedded systems. I am currently working on my drone deployment network for my final year project. I am also interested in electrical engineering and PCB design.
 
 <!--Body Start -->
 
@@ -25,11 +25,11 @@
 ## Key Skills
 
 ### Technical Experience
-> + Low level programming in linux kernel and embedded software in C and assembly
+> + Low-level programming in Linux kernel and embedded software in C and assembly
 > + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++
 > + Agile practices and methodologies: Scrum / Kanban 
 > + Version control: SVN, [Git](https://github.com/bem22)
-> + Continous Integration with Jenkins and CircleCI
+> + Continuous Integration with Jenkins and CircleCI
 <!--Work-->
 
 ## Work Experience 
@@ -55,7 +55,7 @@
 >   - Served with Jenkins CI on releases, builds, back-ups, integration with GitHub [Jenkins](https://jenkins.imobiliare007.ro/)
 >   - Uses Google Maps API for property location and Facebook & Google Social Login APIs
 
-#### Self taught skills
+#### Self-taught skills
 > + Soldering and PCB design in Autodesk Eagle
 > + Productivity practices
     - Journal keeping and goal setting
