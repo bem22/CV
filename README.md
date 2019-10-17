@@ -5,11 +5,11 @@
 ## Final year student, interested in Embedded Systems and Software Engineering
 
 <!--Contact Information-->
-[__blogger__ ](https://bembedded.blogspot.com)|[__github.com/bem22__](https://github.com/bem22) __|__ [Stackoverflow](https://stackoverflow.com/users/7056603/bem22)
+[__github.com/bem22__](https://github.com/bem22) __|__ [Stackoverflow](https://stackoverflow.com/users/7056603/bem22)
 07398137319 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Final year student with experience in DevOps, low level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software engineer. I am currently working on my drone deployment system for my final year project. I am also interested in electrical engineering and PCB design
+> Final year student with experience in DevOps, low level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software engineer in embedded systems. I am currently working on my drone deployment network for my final year project. I am also interested in electrical engineering and PCB design.
 
 <!--Body Start -->
 
@@ -25,18 +25,17 @@
 ## Key Skills
 
 ### Technical Experience
-> + Low level programming in linux kernel and embedded software
-> + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bem22/talktostrangersCMD), C/C++
+> + Low level programming in linux kernel and embedded software in C and assembly
+> + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++
 > + Agile practices and methodologies: Scrum / Kanban 
 > + Version control: SVN, [Git](https://github.com/bem22)
-> + Continous Integration with Jenkins or CircleCI
-> + Make / Cmake
+> + Continous Integration with Jenkins and CircleCI
 <!--Work-->
 
 ## Work Experience 
-#### Web Developer - [Magic 42](https://www.magic42.co.uk/), Birmingham - October 2018 - Present
-> + Worked with sensitive data and implemented changes that helped businesses adhere to GDPR 
-> + Held the responsibility of integrating code and preventing downtime on a client live server for 4 months
+#### Web Developer - [Magic 42](https://www.magic42.co.uk/), Birmingham - October 2018 - July 2019
+> + Worked with sensitive data and implemented changes that helped businesses comply to GDPR
+> + Held the responsibility of integrating code and preventing downtime on a client's live server for 4 months
 > + Extending functionality for E-commerce web platforms: 
 >   - Using PHP, JavaScript/jQuery in frameworks like Zend2, Laravel, and Lumen
 >   - Code reviewing and participating in functionality demonstrations 
@@ -57,21 +56,22 @@
 >   - Uses Google Maps API for property location and Facebook & Google Social Login APIs
 
 #### Self taught skills
-> + Soldering and PCB design in Autodesk Eagle (blog link)
+> + Soldering and PCB design in Autodesk Eagle
+> + Productivity practices
+    - Journal keeping and goal setting
+    - Solution finding through problem break-down
+    - Habit tracking and development
 > + Cloud computing on AWS and Google CP 
       - LAMP/LEMP stack deployment
       - CA Certificate deployment with __Let's encrypt__/__Cryptbot__
       - AWS suite tools: Route53, RDS, Security groups, Elastic IP, load balancing
 
-## Additional languages
+## Known languages
 
 > _**Romanian**_ (Native), _**English**_ (Fluent)  _**French**_ (Intermediate) 
 
 <!--The person-->
 Hobbies
 -------  
-> * Fitness and cycling
->   - Training 5 times a week for the past 18 months
->   - Demonstrates patience and perseverance to get significant results
->   - Swimming twice a week
->   - Participating in cycling sportives every summer
+> * PCB design and prototyping
+> * Gym, cycling and swimming
