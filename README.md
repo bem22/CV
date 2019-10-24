@@ -6,10 +6,10 @@
 
 <!--Contact Information-->
 [__github.com/bem22__](https://github.com/bem22) __|__ [Stackoverflow](https://stackoverflow.com/users/7056603/bem22)
-07398137319 __|__ be.mihai22@gmail.com
+__|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Final year student with experience in DevOps, low-level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software engineer in embedded systems. I am currently working on my drone deployment network for my final year project. I am also interested in electrical engineering and PCB design.
+> Final year student with experience in DevOps, low-level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software Engineer in embedded systems. I am currently working on my drone deployment network for my final year project. I am also interested in electrical engineering and PCB design.
 
 <!--Body Start -->
 
