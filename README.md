@@ -9,7 +9,7 @@
 __|__ be.mihai22@gmail.com
 
 <!--Statement-->
-> Final year student with experience in DevOps, low-level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software Engineer in embedded systems. I am currently working on my drone deployment network for my final year project. I am also interested in electrical engineering and PCB design.
+> Final year student with experience in DevOps, low-level programming and web development. I plan to complete my degree in **BSc Computer Science with an Industrial Year** and work as a Software Engineer in embedded systems. I am currently working on my drone deployment network for my final year project. I am also interested in electrical engineering and PCB design  
 
 <!--Body Start -->
 
@@ -17,8 +17,8 @@ __|__ be.mihai22@gmail.com
 
 ## Education
  __BSc Computer Science__ with _a Year in Industry_ at __University of Birmingham__ - 2016 - 2020 
->  - On track for a 1st degree
->  - Studying Kernel programming, Network and Security, Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Software Design and Computer Systems & Architecture.
+>  - On track for a 1st degree  
+>  - Studying Kernel programming, Network and Security, Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Software Design and Computer Systems & Architecture  
 
 <!--Highlights -->
 
@@ -26,9 +26,10 @@ __|__ be.mihai22@gmail.com
 
 ### Technical Experience
 > + Programming in Linux kernel and embedded software in C and assembly
-> + 8/16/32-bit microprocessors designed by ARM (ATMega328, ARM1176JZ, Tensillica)
+> + 8/16/32-bit microprocessors designed by ARM (ATMega328, ARM1176JZ, Tensillica)  
 > + Low level communication protocols such as PWM, UART, SPI, I2C and PPM
-> + Agile practices and methodologies such as Scrum and Kanban 
+> + Agile practices and methodologies such as Scrum and Kanban
+> + Dynamic debugging, memory checks, leak prevention with Valgrind, gdb and CLiondb
 > + Version control: SVN, [Git](https://github.com/bem22)
 > + Object-oriented, multi-threading programming and networking in [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++
 > + Markup languages such as XML, Markdown and LaTeX
@@ -59,15 +60,14 @@ __|__ be.mihai22@gmail.com
 > + Improved user experience by integrating social media login for google, facebook and twitter
 
 #### Self-taught skills
-> + Soldering and PCB design in Autodesk Eagle
-> + Productivity practices
-    - Journal keeping and goal setting from reading "How to be a productivity Ninja" by Graham Allcott
-    - Solution finding through problem break-down
-    - Habit tracking and development from reading "Don't shoot the dog" by Karen Pryor and "Power of Habit" by Charles Duhigg
-> + Cloud computing on AWS and Google CP 
-      - LAMP/LEMP stack deployment
-      - CA Certificate deployment with __Let's encrypt__/__Cryptbot__
-      - AWS suite tools: Route53, RDS, Security groups, Elastic IP, load balancing
+> + Learned soldering and PCB design in Autodesk Eagle from online tutorials and free lab sessions
+> + Developed a skill in journal keeping and goal setting from reading "How to be a productivity Ninja" by Graham Allcott
+> + Applied solution finding through problem break-down
+> + Expanded abilities in tracking and developing habits from reading "Don't shoot the dog" by Karen Pryor and "Power of Habit" by Charles Duhigg    
+> + Enrolled in the Google CodeCamp and developed skills in cloud computing  
+    - LAMP/LEMP stack deployment  
+    - CA Certificate deployment with __Let's encrypt__/__Cryptbot__  
+> + Learned AWS suite tools: Route53, RDS, Security groups during a hackathon
 ## Known languages
 
 > _**English**_ (Fluent),  _**French**_ (Intermediate), __Romanian__ (Native),
