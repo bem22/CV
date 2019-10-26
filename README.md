@@ -25,53 +25,57 @@ __|__ be.mihai22@gmail.com
 ## Key Skills
 
 ### Technical Experience
-> + Low-level programming in Linux kernel and embedded software in C and assembly
-> + Object-oriented, multi-threading programming and networking with [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++
-> + Agile practices and methodologies: Scrum / Kanban 
+> + Programming in Linux kernel and embedded software in C and assembly
+> + 8/16/32-bit microprocessors designed by ARM (ATMega328, ARM1176JZ, Tensillica)
+> + Low level communication protocols such as PWM, UART, SPI, I2C and PPM
+> + Agile practices and methodologies such as Scrum and Kanban 
 > + Version control: SVN, [Git](https://github.com/bem22)
-> + Continuous Integration with Jenkins and CircleCI
+> + Object-oriented, multi-threading programming and networking in [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++
+> + Markup languages such as XML, Markdown and LaTeX
+> + Time and resource management, list-keeping, productivity enhancement
+> + Continuous Integration with Jenkins
 <!--Work-->
 
 ## Work Experience 
 #### Web Developer - [Magic 42](https://www.magic42.co.uk/), Birmingham - October 2018 - July 2019
-> + Worked with sensitive data and implemented changes that helped businesses comply to GDPR
-> + Held the responsibility of integrating code and preventing downtime on a client's live server for 4 months
-> + Extending functionality for E-commerce web platforms: 
->   - Using PHP, JavaScript/jQuery in frameworks like Zend2, Laravel, and Lumen
->   - Code reviewing and participating in functionality demonstrations 
->   - Helped in architecting the front-end of new platforms and enhancing the user experience
-> + Coached new developers and improved team productivity by supporting fellow developers
-> + Improved internal practices and established strong code standards practices
-> + Influenced people towards healthy eating and exercising by organizing and hosting two workshops
+> + Responsible for a database project which led to GDPR compliance of the business
+> + Held exclusive accountability for planning integration, deployment and downtime prevention on a client's live server for 4 months
+> + Upgraded functionality for E-commerce web platforms with frameworks such as Zend2 and Laravel
+> + Enhanced productivty in the code reviewing process by integrating a notification system with my team
+> + Shaped the task design process with my project manager which improved the quality of the sprint
+> + Transformed the office by influenced people towards healthy eating and exercising through fitness workshops 
 
 #### IT Project Manager at Study Abroad & Exchanges, University of Birmingham, Feb 2018 - June 2019
 > + Merged two databases to comply with the ERASMUS Standards
 > + Optimized the website for search engines and increased number of visits by 19%
-> + Optimized workflow by writing SQL based scripts for Excel
+> + Optimized office's workflow by coaching employees on writing SQL scripts for Excel
 
 #### Freelance Web Developer - Summer 2018
-> + Developed a website for a real estate agency [live website](https://imobiliare007.ro/)
->   - Hosted on Amazon, with Wordpress CMS using a theme independently developed by myself
->   - Served with Jenkins CI on releases, builds, back-ups, integration with GitHub [Jenkins](https://jenkins.imobiliare007.ro/)
->   - Uses Google Maps API for property location and Facebook & Google Social Login APIs
+> + Managed a project with the aim to build a [website](https://imobiliare007.ro/) for an real-estate agency
+> + Recruited a graphic designer and partenered in satisfying the client's requirements
+> + Enabled Elastic IP and load balancing on the NGINX server, while using Amazon's EC2
+> + Developed the deployment, backups and integration using Jenkins and Github [link](www.jenkins.imobiliare007.ro)
+> + Integrated Google Maps API within a custom plugin for property location
+> + Improved user experience by integrating social media login for google, facebook and twitter
 
 #### Self-taught skills
 > + Soldering and PCB design in Autodesk Eagle
 > + Productivity practices
-    - Journal keeping and goal setting
+    - Journal keeping and goal setting from reading "How to be a productivity Ninja" by Graham Allcott
     - Solution finding through problem break-down
-    - Habit tracking and development
+    - Habit tracking and development from reading "Don't shoot the dog" by Karen Pryor and "Power of Habit" by Charles Duhigg
 > + Cloud computing on AWS and Google CP 
       - LAMP/LEMP stack deployment
       - CA Certificate deployment with __Let's encrypt__/__Cryptbot__
       - AWS suite tools: Route53, RDS, Security groups, Elastic IP, load balancing
-
 ## Known languages
 
-> _**Romanian**_ (Native), _**English**_ (Fluent)  _**French**_ (Intermediate) 
+> _**English**_ (Fluent),  _**French**_ (Intermediate), __Romanian__ (Native),
 
 <!--The person-->
 Hobbies
 -------  
-> * PCB design and prototyping
-> * Gym, cycling and swimming
+> * PCB design and prototyping paired with IoT development
+> * Gym, cycling sportives and swimming
+> * Self-development books and podcasts and camomile tea drinking
+> * Computer games when I don't get extremely competitive
