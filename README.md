@@ -27,7 +27,7 @@ __|__ be.mihai22@gmail.com
 ### Technical Experience
 > + Programming in Linux kernel and embedded software in C and assembly
 > + 8/16/32-bit microprocessors designed by ARM (ATMega328, ARM1176JZ, Tensillica)  
-> + Low level communication protocols such as PWM, UART, SPI, I2C and PPM
+> + Low-level communication protocols such as PWM, UART, SPI, I2C and PPM
 > + Agile practices and methodologies such as Scrum and Kanban
 > + Dynamic debugging, memory checks, leak prevention with Valgrind, gdb and CLiondb
 > + Version control: SVN, [Git](https://github.com/bem22)
@@ -42,7 +42,7 @@ __|__ be.mihai22@gmail.com
 > + Responsible for a database project which led to GDPR compliance of the business
 > + Held exclusive accountability for planning integration, deployment and downtime prevention on a client's live server for 4 months
 > + Upgraded functionality for E-commerce web platforms with frameworks such as Zend2 and Laravel
-> + Enhanced productivty in the code reviewing process by integrating a notification system with my team
+> + Enhanced productiviaty in the code reviewing process by integrating a notification system with my team
 > + Shaped the task design process with my project manager which improved the quality of the sprint
 > + Transformed the office by influenced people towards healthy eating and exercising through fitness workshops 
 
@@ -52,18 +52,18 @@ __|__ be.mihai22@gmail.com
 > + Optimized office's workflow by coaching employees on writing SQL scripts for Excel
 
 #### Freelance Web Developer - Summer 2018
-> + Managed a project with the aim to build a [website](https://imobiliare007.ro/) for an real-estate agency
-> + Recruited a graphic designer and partenered in satisfying the client's requirements
+> + Managed a project for a client [website](https://imobiliare007.ro/) for a real-estate agency
+> + Recruited a graphic designer and partneredd in satisfying the client requirements
 > + Enabled Elastic IP and load balancing on the NGINX server, while using Amazon's EC2
 > + Developed the deployment, backups and integration using Jenkins and Github [link](www.jenkins.imobiliare007.ro)
-> + Integrated Google Maps API within a custom plugin for property location
+> + Integrated Google Maps API within a custom plugin for property localisation
 > + Improved user experience by integrating social media login for google, facebook and twitter
 
 #### Self-taught skills
 > + Learned soldering and PCB design in Autodesk Eagle from online tutorials and free lab sessions
-> + Developed a skill in journal keeping and goal setting from reading "How to be a productivity Ninja" by Graham Allcott
+> + Developed a skill in journal keeping and goal setting by reading "How to be a productivity Ninja" by Graham Allcott
 > + Applied solution finding through problem break-down
-> + Expanded abilities in tracking and developing habits from reading "Don't shoot the dog" by Karen Pryor and "Power of Habit" by Charles Duhigg    
+> + Expanded abilities in tracking and developing habits by reading "Don't shoot the dog" by Karen Pryor and "Power of Habit" by Charles Duhigg    
 > + Enrolled in the Google CodeCamp and developed skills in cloud computing  
     - LAMP/LEMP stack deployment  
     - CA Certificate deployment with __Let's encrypt__/__Cryptbot__  
