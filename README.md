@@ -19,7 +19,7 @@ pdf_options:
 __|__ be.mihai22@gmail.com | __07398137319__
 
 <!--Statement-->
-> Final year student with experience in DevOps, low-level programming and web development. Once I have graduated with my degree in **BSc Computer Science (with an Industrial Year)**, I plan to work as a Software Engineer in embedded systems. I am interested in pursuing a career with ARM in Systems Architecture Engineering
+> Final year student with experience in DevOps, low-level programming and web development. Once I have graduated with my degree in **BSc Computer Science (with an Industrial Year)**, I plan to work as a Software Engineer in embedded systems. I am interested in pursuing a career with ARM in System Architecture Engineering
 
 <!--Body Start -->
 
@@ -40,7 +40,7 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
 ## Key Skills
  + Programming C and C++ in Linux kernel and embedded software with ARM RISC architecture
  + ARM architecture microprocessors (ATMega328, ARM1176JZ, Tensillica) from my final year project
- + Great in working within a team using Agile methodologies and version control
+ + Leadership, taking the role as a scrum master, improving team velocity during sprint planning sessions
  + Low-level communication protocols such as PWM, UART, SPI, I2C and PPM 
  + Dynamic debugging, memory checks, leak prevention with Valgrind, gdb and CLiondb
  + Object-oriented, multi-threading programming and networking in [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++
@@ -56,7 +56,7 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
  + Upgraded functionality for E-commerce web platforms with frameworks such as Zend2 and Laravel
  + Enhanced code review process productivity by integrating a notification system
  + Shaped task design process with a project manager, increasing sprint quality
- + Presented fitness workshops on healthy eating and exercising which positively impacted my co-workers
+ + Presented fitness workshops on healthy eating and exercising which positively impacted my colleagues health
 
 <br>  
 
@@ -71,22 +71,22 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
  + Deployed Elastic IP and load balancing on the NGINX server, on Amazon's EC2
  + Devised backups and integration with Jenkins and Github [(link)](www.jenkins.imobiliare007.ro)
  + Implemented a custom plugin using Google Maps API for property localisation
- + Improved user experience by integrating social media login for google, facebook and twitter
+ + Improved user experience by integrating social media login for Google, Facebook and Twitter
 
 ## Self-taught skills
- + Applied solution finding through problem break-down such breaking down the data path from my phone to an embedded device connected to a server and implementing each segment
+ + Applied solution finding through problem break-down such as dividing the data path from my phone to an embedded device connected to a server and implementing each segment
  + Acquired experience in soldering and PCB design by prototyping smart-home IoT devices
- + Developed a skill in journal keeping and goal setting by reading "How to be a productivity Ninja" by Graham Allcott
- + Expanded abilities in tracking and developing habits by reading "Don't shoot the dog" by Karen Pryor and "Power of Habit" by Charles Duhigg    
+ + Developed a skill in journal keeping and goal setting by reading "_How to be a productivity Ninja_" by Graham Allcott
+ + Expanded abilities in tracking and developing habits by reading "_Don't shoot the dog_" by Karen Pryor and "_Power of Habit_" by Charles Duhigg    
  + Enrolled in Google CodeCamp and strengthened skills in cloud computing  
     - LAMP/LEMP stack deployment  
-    - CA Certificate deployment with __Let's encrypt__/__Cryptbot__  
+    - CA Certificate deployment with _Let's encrypt_/_Cryptbot_ 
  + Learned AWS suite tools: Route53, RDS, Security groups during a hackathon
 
 ## Languages
-* _**English**_ (Fluent),  _**French**_ (Intermediate), __Romanian__ (Native),
+* _**English**_ (Fluent),  _**French**_ (Intermediate), _**Romanian**_ (Native),
 
 ## Hobbies
  * PCB design and prototyping paired with IoT development in enabling internet in thumb-size embedded devices - for example I made a wireless remote control that communicates to two relays and a thermostat using ESP8266
- * Gym, cycling sportives and swimming - Participating in 120km rides and feeding my interest in sport science by reading studies on nutrition and muscle mechanics
- * Self-development books and podcasts and drinking camomile tea 
+ * Gym, road cycling and swimming - Participating in 120km rides and feeding my interest in sport science by reading studies on nutrition and muscle mechanics
+ * Self-development books, podcasts and drinking camomile tea 
