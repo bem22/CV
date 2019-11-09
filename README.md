@@ -52,7 +52,7 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
 #### Web Developer - magic42 LTD Birmingham, October 2018 - July 2019
  + Managed a database project which led to the GDPR compliance of the business
  + Supervised the integration, deployment and downtime prevention on a client's live server for 4 months
- + Opted in to deliver a security risk assesment, highlighting the patches missing, backdoors into the database and open redirects for a client, being the only intern with experience in this domain
+ + Avoided client dissatisfaction, opting in to deliver a security risk assesment, highlighting the patches missing, backdoors into the database and open redirects on a project that did not go according to the plan
  + Upgraded functionality for E-commerce web platforms with frameworks such as Zend2 and Laravel
  + Enhanced the code review process productivity by integrating a notification system
  + Shaped the task design process with a project manager, increasing sprint quality
@@ -89,4 +89,4 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
 ## Hobbies
  * PCB design and prototyping paired with IoT development in enabling internet in thumb-size embedded devices - for example I made a wireless remote control that communicates to two relays and a thermostat using ESP8266
  * Gym, road cycling and swimming - Participating in 120km rides and feeding my interest in sport science by reading studies on nutrition and muscle mechanics
- * Self-development books, podcasts, burger flipping and drinking camomile tea 
+ * Self-development books, podcasts, cooking and drinking camomile tea 
