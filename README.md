@@ -12,8 +12,6 @@ pdf_options:
 <!--Name & Interest-->
 
 # Mihai-Emilian Buduroi
-
-## Final year student, interested in designing of software and hardware for networked embedded systems
 <!--Contact Information-->
 [__github.com/bem22__](https://github.com/bem22) __|__ [stackoverflow](https://stackoverflow.com/users/7056603/bem22)
 __|__ be.mihai22@gmail.com | __07398137319__
@@ -28,8 +26,9 @@ __|__ be.mihai22@gmail.com | __07398137319__
 ## Education  
 
 __BSc Computer Science with a Year in Industry at University of Birmingham - 2016 - 2020__  
-> I am currently working on a drone deployment network for my final year project.
-> On track for a 1st class degree, studying Kernel programming, Network and Security, Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Software Design and Computer Systems & Architecture  
+ + I am currently working on a drone deployment network for my final year project  
+ + On track for a 1st class degree, studying Kernel programming, Network and Security, Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Software Design and Computer Systems & Architecture  
+ + I accomplished First as my final mark in Computer Systems and Architecture while studying MIPS and ARM processor designs, as well as a first in C/C++ module and Software Engineering
 
 __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced Maths - 2012 - 2016__
 > 9.1 / 10 in C programming  
@@ -53,10 +52,11 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
 #### Web Developer - magic42 LTD Birmingham, October 2018 - July 2019
  + Managed a database project which led to the GDPR compliance of the business
  + Supervised the integration, deployment and downtime prevention on a client's live server for 4 months
+ + Opted in to deliver a security risk assesment, highlighting the patches missing, backdoors into the database and open redirects for a client, being the only intern with experience in this domain
  + Upgraded functionality for E-commerce web platforms with frameworks such as Zend2 and Laravel
- + Enhanced code review process productivity by integrating a notification system
- + Shaped task design process with a project manager, increasing sprint quality
- + Presented fitness workshops on healthy eating and exercising which positively impacted my colleagues health
+ + Enhanced the code review process productivity by integrating a notification system
+ + Shaped the task design process with a project manager, increasing sprint quality
+ + Presented biquarterly fitness workshops on healthy eating and exercising which positively impacted my colleagues health
 
 <br>  
 
@@ -66,10 +66,10 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
  + Improved office's workflow by coaching employees on writing SQL scripts for Excel
 
 #### Freelance Web Developer - Real-Estate Agency, May 2018 - September 2018
- + Managed a project for a client  [website](https://imobiliare007.ro/) for a real-estate agency
+ + Delivered the design, implementation and deployment of a [website](https://imobiliare007.ro/) for a real-estate agency
  + Recruited a graphic designer and partnered in satisfying client requirements
  + Deployed Elastic IP and load balancing on the NGINX server, on Amazon's EC2
- + Devised backups and integration with Jenkins and Github [(link)](www.jenkins.imobiliare007.ro)
+ + Devised backups and integration with Jenkins and Github [(link)](https://www.jenkins.imobiliare007.ro)
  + Implemented a custom plugin using Google Maps API for property localisation
  + Improved user experience by integrating social media login for Google, Facebook and Twitter
 
@@ -89,4 +89,4 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
 ## Hobbies
  * PCB design and prototyping paired with IoT development in enabling internet in thumb-size embedded devices - for example I made a wireless remote control that communicates to two relays and a thermostat using ESP8266
  * Gym, road cycling and swimming - Participating in 120km rides and feeding my interest in sport science by reading studies on nutrition and muscle mechanics
- * Self-development books, podcasts and drinking camomile tea 
+ * Self-development books, podcasts, burger flipping and drinking camomile tea 
