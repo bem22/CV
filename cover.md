@@ -12,15 +12,15 @@ pdf_options:
 
 Dear Sir/Madam,
 
-My name is Mihai-Emilian Buduroi, and it is with great enthusiasm that I am applying for Graduate Systems Architecture Engineer 2020 position currently advertised on your website. I am currently in my final working towards a BSc. Computer Science with Industrial Placement at the University of Birmingham, UK.
+My name is Mihai-Emilian Buduroi, and it is with great enthusiasm that I am applying for the Embedded Software Engineer position currently advertised on your website. I am currently in my final year working towards a BSc. Computer Science with Industrial Placement at the University of Birmingham, UK.
 
-I am passionate about low-level programming and electronics. ARM's prevalence in the IoT and mobile industry encouraged me to apply to become part of an incredible team that changed the world through innovation. I want to be involved in engineering software for embedded systems, and I believe I could deepen my knowledge by joining ARM.
+I was fascinated by Raffaello's TED Talk where he proved the power of 3D position tracking and drone control. I researched the company, finding out that you have a job opening and believe I have the required skills and the work ethic necessary to be part of your fantastic team in Switzerland.
 
-During my placement, I always challenged the status quo, transforming risk into reward one decision at a time. From improving project specification write-up to having full access on client's live servers for deployment, my team and I made an impact in every step of the software development process. I believe that the diversity of perspectives and the synergy between team members can lead to productive and creative results. For example, in the planning of the biggest project of last year (a RESTful microservice for geolocation), during a brainstorming session, I persuaded two more introverted members to share their ideas with the rest of the group. One of the ideas became part of our strategy for the deployment step of our project.
+During my placement, I always challenged the status quo, transforming risk into reward one decision at a time. I believe that the diversity of perspectives and the synergy between team members can lead to productive and creative results. For example, in the planning of the biggest project of last year (a RESTful microservice for geolocation), during a brainstorming session, I persuaded two more introverted members to share their ideas with the rest of the group. Their idea was so good it became the core of our strategy in the deployment procedure of our project.
 
-I like to challenge yesterday's technology, understanding that there's always space for improvement in the design. This is also my focus in my final year project, where I am building a network of drones that can be dispatched worldwide on 4G networks. My project involves designing an efficient network protocol, low-level communication between components and PCB design. I enjoy working on this project and, although electrical engineering is not part of my degree, I thrive, being empowered by my passion.
+I like to challenge yesterday's technology, understanding that there's always space for improvement in the design. This is also my focus in my final year project, which is a drone deployment network on 4G. My project is the sum of all the experience I gathered in the four years of university. Besides coding the network stack, the analog signal generator and the android app, I am also designing the multilayer PCB for the drone from scratch with SMD components to retain a small form factor.
 
-I am looking forward to hearing from you and the opportunity to discuss my application with you further.
+I would love to have the chance to talk to you about my final year project and the opportunity to discuss my application with you further.
 
 Yours faithfully, 
 Mihai-Emilian Buduroi

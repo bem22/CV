@@ -16,8 +16,7 @@ pdf_options:
 __|__ be.mihai22@gmail.com | __07398137319__
 
 <!--Statement-->
-> Final year student with experience in DevOps, low-level programming and web development. Once I have graduated with my degree in **BSc Computer Science (with an Industrial Year)**, I plan to work as a Software Engineer in embedded systems. I am interested in pursuing a career with ARM in System Architecture Engineering
-
+> Final year student with experience in embedded software and DevOps. After graduation with my degree in **BSc Computer Science (with an Industrial Year)**, I plan to work as a Software Engineer in embedded systems.
 <!--Body Start -->
 
 <!--School-->
@@ -25,8 +24,8 @@ __|__ be.mihai22@gmail.com | __07398137319__
 ## Education 
 
 __BSc Computer Science with a Year in Industry at University of Birmingham - 2016 - 2020__ 
- + I am currently working on a drone deployment network for my final year project 
- + On track for a 1st class degree, studying Kernel programming, Network and Security, Object-Oriented Programming, Software Engineering, Data Structures and Algorithms, Software Design and Computer Systems & Architecture 
+ + Finished my final year [__Project Hawk__](https://github.com/bem22/project-hawk) - designed and assembled the PCB, developed the network engine, as well as the android remote system for a 4G drone - [__See my dissertation__](https://github.com/bem22/project-hawk/blob/master/HAWK_FINAL_PAPER.pdf)
+ + On track for a 1st class degree, studying Kernel programming, Network and Security, Embedded Software Engineering and Computer Systems & Architecture waiting for examination results
  + I accomplished First as my final mark in Computer Systems and Architecture while studying MIPS and ARM processor architecture, as well as in C/C++ module and Software Engineering
 
 __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced Maths - 2012 - 2016__
@@ -36,28 +35,27 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
 <!--Highlights -->
 
 ## Key Skills
- + Programming C and C++ in Linux kernel and embedded software with ARM RISC architecture
- + ARM (ARM1176JZ) and Harvard (ATMega328) architecture microprocessors in my final year project
+ + Programming C and C++ in Linux kernel and embedded software with ARM RISC architecture - [__see this project__](https://github.com/bem22/linux-lkm-firewall)
  + Leadership, taking the role as a scrum master, improving team velocity during sprint planning sessions
- + Low-level communication protocols such as PWM, UART, SPI, I2C and PPM 
- + Dynamic debugging, memory checks, leak prevention with Valgrind, gdb and reading disassembled binary
- + Object-oriented, multi-threading programming and networking in [__JAVA__](https://github.com/bem22/talktostrangersCMD), C++
+ + PCB prototyping and design, SMD soldering/reflow, familiarity with hardware components and ICs [__see my final year project pcb_](https://easyeda.com/be.mihai22/project-hawk)
+ + Low-level communication protocols such as PWM, UART, SPI, I2C and PPM
+ + Dynamic/remote debugging, memory checks, leak prevention with Valgrind and LWN (both in user space and kernel space), disassembled binary
+ + Object-oriented, multi-threading programming and networking in [__JAVA__](https://github.com/bem22/talktostrangersCMD), C/C++
  + Markup languages such as XML, Markdown and LaTeX
- + Time and resource management, list-keeping, productivity enhancement
- <!--Work-->
-
+ + Time and resource management, list-keeping, productivity enhancement [_see my live to-do list__](https://hackmd.io/@bem22/rkwVQ8-1N)
+ 
+<!--Work-->
 ## Work Experience
 
 #### Web Developer - magic42 LTD Birmingham, October 2018 - July 2019
  + Managed a database project which led to the GDPR compliance of the business
  + Supervised the integration, deployment and downtime prevention on a client's live server for 4 months
  + Avoided client dissatisfaction, opting in to deliver a security risk assessment, highlighting the patches missing, backdoors into the database and open redirects, on a project that did not go according to the plan
- + Upgraded functionality for E-commerce web platforms with frameworks such as Zend2 and Laravel
  + Enhanced the code review process productivity by integrating a notification system
- + Shaped the task design process with a project manager, increasing sprint quality
- + Presented quarterly fitness workshops on healthy eating and exercising which positively impacted my colleagues' health
-
+ + Maintained virtualization software such as Docker and Vagrant
+ + Presented quarterly fitness workshops on healthy eating and exercising, which positively impacted my colleagues' health
 <br> 
+<br>
 
 #### IT Project Manager - Study Abroad & Exchanges University of Birmingham, Feb 2018 - June 2019
  + Merged two databases to comply with ERASMUS Standards
@@ -73,7 +71,6 @@ __A Level equivalent (Romanian Baccalaureate) in Computer Science and Advanced M
  + Improved user experience by integrating social media login for Google, Facebook and Twitter
 
 ## Self-taught skills
- + Applied solution finding through problem break-down such as dividing the data path from my phone to an embedded device connected to a server and implementing each segment
  + Acquired experience in soldering and PCB design in EAGLE for my Final Year Project
  + Developed skill in journal keeping and goal setting by reading "_How to be a productivity Ninja_" by Graham Allcott
  + Expanded abilities in tracking and developing habits by reading "_Don't shoot the dog_" by Karen Pryor and "_Power of Habit_" by Charles Duhigg 
