@@ -1,4 +1,4 @@
--
+---
 stylesheet: https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css
 body_class: markdown-body
 css: |-
@@ -9,17 +9,26 @@ pdf_options:
  format: A4
  margin: 17mm
 ---
+
+
+<br>
+<br>
+<br>
+<br>
+
+
 <!--Name & Interest-->
 # Mihai-Emilian Buduroi - [wembed-systems.com](https://beta.wembed-systems.com/)
 <!--Contact Information-->
 [__github.com/bem22__](https://github.com/bem22) __|__ [stackoverflow](https://stackoverflow.com/users/7056603/bem22)
-__|__ be.mihai22@gmail.com | __+436120594406 / +40720380409__
-
+__|__ mihai@wembed-systems.com | __+436120594406 / +40720380409__
+<br>
 <!--Statement-->
 > Embedded Systems Engineer with over 4 years of experience in developing patented technologies for startups. As an entrepreneurial visionary, I possess a comprehensive understanding of the embedded systems industry, engaging deeply in every facet of the research and development lifecycle
 <!--Body Start -->
 
 <!--School-->
+
 
 ## Education 
 
@@ -28,12 +37,16 @@ __BSc Computer Science with a Year in Industry at University of Birmingham - 201
  + 1st class degree, being pasionate about studying Kernel programming, Network and Security, Embedded Software Engineering and Computer Systems & Architecture
  + Besides low level architecture and languages of computer design, the degree exposed me to key concepts and hands-on experience for helping teams and businesses. Knowing how to implement Agile and Waterfall methods in organizations helps me deliver for big budget projects, as well as for fast and nimble startups
 
+<br>
+
 __A Level equivalent (Romanian Baccalaureate / High School Level) in Computer Science and Advanced Maths - 2012 - 2016__
  + 91% in C programming 
  + 90% in Advanced Maths
  + C1 English Language proficiency through IELTS
 
 <!--Highlights -->
+
+<br>
 
 ## Key Skills
  + Leadership, taking the role as a scrum master, improving team velocity during sprint planning sessions
@@ -43,10 +56,14 @@ __A Level equivalent (Romanian Baccalaureate / High School Level) in Computer Sc
  + Low-level digital and analog communication protocols such as PWM, UART, SPI, I2C and PPM
  + Product design with a taste for minimalist looks
  
+<br>
+<br>
+<br>
+
 <!--Work-->
 ## Work Experience
 
-#### Director and Lead R&D Engineer - weMBED Systems S.R.L - European Economic Area, July 2020 - Present
+#### Director and Lead R&D Engineer - WeMBED Systems S.R.L - European Economic Area, July 2020 - Present
  + Drawing on my Computer Science background and self-taught electronics design skills, I founded and managed the company across four key areas:
     - **Research**: Explored leading-edge sensor and embedded CPU technologies, aiming at creating efficient and compact devices for streamlined data collection in research applications. Resulted in patented innovations which resulted in patented pending innovations.
     - **Development**: Building upon our research, we crafted more than 30 hardware prototypes that yielded five distinct products. These achievements not only facilitated startups in delivering innovation within the life sciences domain but also played a pivotal role in attracting increased investor funding.
@@ -62,12 +79,17 @@ __A Level equivalent (Romanian Baccalaureate / High School Level) in Computer Sc
  + Enhanced the code review process productivity for the organization by integrating a notification system for the developers
  + Maintained virtualization software such as Docker and Vagrant
  + I helped the organization's social goals by presenting quarterly fitness workshops on healthy eating and exercising, which positively impacted my colleagues' mood and productivity
-<br> 
-<br>
+
 #### IT Project Manager - Study Abroad & Exchanges University of Birmingham, Feb 2018 - June 2018
  + Merged two databases to comply with ERASMUS Standards
  + Optimised team's website for search engines and increased number of visits by 19%
  + Improved office's workflow by coaching employees on writing SQL scripts for Excel
+
+<br>
+<br>
+<br>
+<br>
+
 
 ## Self-taught skills
  + One of the modules in year 2 of University sparked my curiosity into low level computing which led to understanding the CPUs and memory down to logic gate level - I was disatisfied with the price, design inflexibility and quality of PCBs so I started learning how to design my own four years ago
