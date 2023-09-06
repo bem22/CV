@@ -33,7 +33,7 @@ __|__ mihai@wembed-systems.com | __+436120594406 / +40720380409__
 ## Education 
 
 __BSc Computer Science with a Year in Industry at University of Birmingham - 2016 - 2020__ 
- + The highlight of my degree is [__Project Hawk__](https://github.com/bem22/project-hawk) - I researched, designed and integrated a drone to studying cell tower compatibility for comercial drone applications. From designing the PCB to developing a new blazing fast 4G network engine, this project has become the foundation stone of my career as systems engineer and assured my place in the industry early on - [__See my dissertation__](https://github.com/bem22/project-hawk/blob/master/HAWK_FINAL_PAPER.pdf)
+ + The highlight of my degree is [__Project Hawk__](https://github.com/bem22/project-hawk) - I researched, designed and integrated a drone for studying cell tower compatibility for comercial drone applications. From designing the PCB to developing a new blazing fast 4G network engine, this project has become the foundation stone of my career as systems engineer and assured my place in the industry early on - [__See my dissertation__](https://github.com/bem22/project-hawk/blob/master/HAWK_FINAL_PAPER.pdf)
  + 1st class degree, being pasionate about studying Kernel programming, Network and Security, Embedded Software Engineering and Computer Systems & Architecture
  + Besides low level architecture and languages of computer design, the degree exposed me to key concepts and hands-on experience for helping teams and businesses. Knowing how to implement Agile and Waterfall methods in organizations helps me deliver for big budget projects, as well as for fast and nimble startups
 
@@ -42,7 +42,7 @@ __BSc Computer Science with a Year in Industry at University of Birmingham - 201
 __A Level equivalent (Romanian Baccalaureate / High School Level) in Computer Science and Advanced Maths - 2012 - 2016__
  + 91% in C programming 
  + 90% in Advanced Maths
- + C1 English Language proficiency through IELTS
+ + C1 English Language proficiency through IELTS (2017)
 
 <!--Highlights -->
 
@@ -52,8 +52,9 @@ __A Level equivalent (Romanian Baccalaureate / High School Level) in Computer Sc
  + Leadership, taking the role as a scrum master, improving team velocity during sprint planning sessions
  + Expert in low level programming: OOP, multi threading, distributed networks, kernel space for ARM RISC and having experience in Bluetooth, ZigBee and LoRaWAN
  + PCB prototyping, design and mid scale production, with experience in PNP assembly [__see project where I am a maintainer__](https://github.com/opulo-inc/lumenpnp)
- + Design with security and efficiency in mind: expert in dynamic/remote debugging, memory checks, leak prevention with Valgrind and LWN and experience in  disassembled binary
- + Low-level digital and analog communication protocols such as PWM, UART, SPI, I2C and PPM
+ + Expertise in version control, virtualization (docker, kubernetes, vagrant), continuous integration and batch testing
+ + Design with security and efficiency in mind: I am an expert in dynamic/remote debugging, memory checks, leak prevention with Valgrind and LWN and experience in  disassembled binary
+ + Low-level digital and analog communication protocols such as PWM, UART, SPI, I2C and PPM and other custom analog/digital protocols
  + Product design with a taste for minimalist looks
  
 <br>
@@ -92,7 +93,7 @@ __A Level equivalent (Romanian Baccalaureate / High School Level) in Computer Sc
 
 
 ## Self-taught skills
- + One of the modules in year 2 of University sparked my curiosity into low level computing which led to understanding the CPUs and memory down to logic gate level - I was disatisfied with the price, design inflexibility and quality of PCBs so I started learning how to design my own four years ago
+ + One of the modules in year 2 of University sparked my curiosity into low level computing which led to understanding the CPUs and memory down to logic gate level - I was disatisfied with the price, design inflexibility and quality of PCBs so I started learned how to design my own, four years ago
  + Working with clients and colleagues has led me to delve deeper into the art of listening without judgment and resolving conflicts and crises without exacerbating stress
  + I'm naturally lazy and always looking for the quickest option so I had to learn how to trick my brain into a productivity mindset and deliver more in less time by delegating tasks, restructuring the work pipeline and prioritization (I highly recommend reading "The Goal" by Eliyahu M. Goldratt)
 
