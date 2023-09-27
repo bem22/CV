@@ -17,25 +17,27 @@ pdf_options:
 __|__ mihai@wembed-systems.com | __+436120594406 / +40720380409__
 <br>
 <!--Statement-->
-> Embedded Systems Engineer with over 4 years of experience in developing patented technologies for startups. As an entrepreneurial visionary, I possess a comprehensive understanding of the embedded systems industry, engaging deeply in every facet of the research and development lifecycle
+> I am an Embedded Systems Engineer with over 4 years of experience in developing patented technologies. I graduated in Computer Science at The University of Birmingham and as an entrepreneurial visionary, I possess a comprehensive understanding of the embedded systems industry, engaging deeply in every facet of the research and development lifecycle
 <!--Body Start -->
 
+
+<!--Highlights -->
 ## Key Skills
- + Leadership, taking the role as a scrum master, improving team velocity during sprint planning sessions
- + Expert in low level programming: OOP, multi threading, distributed networks, kernel space for ARM RISC and having experience in Bluetooth, ZigBee and LoRaWAN
- + PCB prototyping, design and mid scale production, with experience in PNP assembly [__see project where I am a maintainer__](https://github.com/opulo-inc/lumenpnp)
- + Expertise in version control, virtualization (docker, kubernetes, vagrant), continuous integration and batch testing
- + Design with security and efficiency in mind: I am an expert in dynamic/remote debugging, memory checks, leak prevention with Valgrind and LWN and experience in  disassembled binary
- + Low-level digital and analog communication protocols such as PWM, UART, SPI, I2C and PPM and other custom analog/digital protocols
- + Product design with a taste for minimalist looks
+ + 5 years of experience in embedded software engineering with bare-metal programming, RTOS and embedded linux. I am fluent in C/C++ as well as scripting with python and bash scripting
+ + PCB design, prototyping and mid scale production, with experience in PNP assembly [__see project where I am a maintainer__](https://github.com/opulo-inc/lumenpnp)
+ + 8 years of expertise in version control (github/gitlab), containers (docker/vagrant/kubernetes), continuous integration(circleCI/jenkins) and batch testing
+ + Over 6 years of experience with Agile development as well as waterfall methods, skilled as a SCRUM master
+ + Expert in dynamic/remote debugging, memory checks, memory leak prevention with (Valgrind/LWN) and experienced in disassembled binary
+ + Very familiar with server design and architecture, cloud computing (aws/google-cloud) as well as custom VPNs and networking
+ + I am a people person and I strive in environments where I apply my active listening to bring clarity in engineering
 
 <!--Work-->
 ## Work Experience
 #### Lead R&D Engineer - WeMBED Systems S.R.L - Austria/Germany/The Netherlands July 2020 - Present
  + Drawing on my Computer Science background and self-taught electronics design skills, I founded and managed the company across four key areas:
-    - **Research**: Explored leading-edge sensor and embedded CPU technologies and built my familiarity with the ecosystems of Infineon, Nordic, NXP, Analog Devices and Texas Instruments, creating efficient and compact devices for streamlined data collection in research applications, which resulted in two patent pending devices.
+    - **Research**: Explored leading-edge sensor and embedded CPU technologies and built my familiarity with the ecosystems of Infineon, Nordic, NXP and Texas Instruments, creating efficient and compact devices for streamlined data collection in research applications, which resulted in two patent pending devices.
     - **Development**: Building upon our research, I crafted more than 30 hardware prototypes that yielded five distinct products. These achievements not only facilitated our clients in delivering innovation within the domain of life sciences, but also played a pivotal role in attracting first and second seed of investments.
-    - **Production and Manufacturing**: I invested strategically in a dedicated hardware engineering lab and we successfully achieved to bring mid-scale production for our clients. Additionally, through our active participation in international trade fairs such as Embedded World and Electronica I built a network of chip manufacturers and distributors which is backing us with early access for cutting-edge chips, including sensors,  microcontrollers and passive components, at favorable prices. I am in constant collaboration with manufacturers who support us with components while we support them with feedback and suggestions for their documentation and user/developer experience while using their products
+    - **Production and Manufacturing**: I invested strategically in a dedicated hardware engineering lab and we successfully achieved to bring mid-scale production for our clients. Additionally, through my active participation in international trade fairs such as Embedded World and Electronica I built a network of chip manufacturers and distributors which is backing us with early access for cutting-edge chips, including sensors,  microcontrollers and passive components, at favorable prices. I am in constant collaboration with manufacturers who support us with components while we support them with feedback and suggestions for their documentation and user/developer experience while using their products
     - **Operations**: Leveraging my DevOps know-how, I led the way in crafting custom server architectures for each product launch - this ensured GDPR compliance, data security, and frictionless networking using custom VPNs across institutions, making it easier for our startups to deploy their solutions
  + Led a tight-knit team of four, fostering balanced contributions and individual career progress while promoting a culture of ongoing learning and personal development
  + Managed a range of business administration tasks, encompassing accounting oversight, customer acquisition, and cultivating strategic synergies with other businesses and developers.
@@ -51,7 +53,7 @@ __|__ mihai@wembed-systems.com | __+436120594406 / +40720380409__
  + I helped the organization's social goals by presenting quarterly fitness workshops on healthy eating and exercising, which positively impacted my colleagues' mood and productivity
 
 #### IT Project Manager - Study Abroad & Exchanges University of Birmingham, Feb 2018 - June 2018
- + Merged two databases to comply with ERASMUS Standards
+ + Merged two databases to comply with ERASMUS database standards
  + Optimised team's website for search engines and increased number of visits by 19%
  + Improved office's workflow by coaching employees on writing SQL scripts for Excel
 
@@ -71,18 +73,16 @@ __A Level equivalent (Romanian Baccalaureate / High School Level) in Computer Sc
  + 90% in Advanced Maths
  + C1 English Language proficiency through IELTS (2017)
 
-<!--Highlights -->
-
 
 ## Self-taught skills
  + One of the modules in year 2 of University sparked my curiosity into low level computing which led to understanding the CPUs and memory down to logic gate level - I was disatisfied with the price, design inflexibility and quality of PCBs so I started learned how to design my own, having had access to the hardware penetration lab in my faculty, in 2020
- + Working with clients and colleagues has led me to delve deeper into the art of listening without judgment and resolving conflicts and crises without exacerbating stress - this keeps everyone sane, happy and productive, including myself :)
- + I'm naturally lazy and always looking for the quickest option so I had to learn how to trick my brain into a productivity mindset and deliver more in less time by delegating tasks, restructuring the work pipeline and prioritization (I highly recommend reading "The Goal" by Eliyahu M. Goldratt)
+ + Working with clients and colleagues has led me to delve deeper into the art of listening without judgment and resolving conflicts and crises without exacerbating stress - this keeps everyone sane, happy and productive
+ + I had to learn how to trick my brain into a productivity mindset and deliver more in less time by delegating tasks, restructuring the work pipeline and prioritization (I highly recommend reading "The Goal" by Eliyahu M. Goldratt)
 
 ## Languages
-* _**English**_ (Fluent), _**French**_ (Intermediate), _**Romanian**_ (Native), _some_ **German**
+* _**English**_ (Fluent), _**French**_ (Intermediate), _**Romanian**_ (Native), _**German**_ (Conversational)
 
 ## Hobbies
- * Sports: I am a triathlete and avid cyclist. I also enjoy yoga, pilates and cross training for recovery
+ * Sports: I am a triathlete and avid cyclist. I also enjoy yoga, pilates and cross training
  * Reading: I enjoy psychology books related to childhood development and deep phylosophical topics such as the nature of the universe
  * 55% of the non tech content I consume online is on cooking so naturally this is a big part of my free time
