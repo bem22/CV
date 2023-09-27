@@ -10,17 +10,20 @@ pdf_options:
  margin: 17mm
 ---
 
-Dear Sir/Madam,
+Dear Taurob,
 
-My name is Mihai-Emilian Buduroi, and it is with great enthusiasm that I am applying for the Embedded Software Engineer position currently advertised on your website. I am currently in my final year working towards a BSc. Computer Science with Industrial Placement at the University of Birmingham, UK.
+I am writing to express my strong interest in the Cyber Security Analyst position currently advertised on your website. My name is Mihai-Emilian Buduroi, and I am excited about the opportunity to contribute my skills and passion for hardware and software security to your team.
 
-I was fascinated by Raffaello's TED Talk where he proved the power of 3D position tracking and drone control. I researched the company, finding out that you have a job opening and believe I have the required skills and the work ethic necessary to be part of your fantastic team in Switzerland.
+I hold a degree in Computer Science (First degree with Hons.), which has provided me with a solid foundation in software engineering and data analysis. However, my journey has taken an exciting turn towards hardware and electronics, driven by my deep-rooted fascination with technology. This transformation in my career direction was catalyzed by my final year project, Project HAWK. This project exposed me to the captivating world of hardware design and low latency network protocols which set me on a path that I have passionately pursued ever since.
 
-During my placement, I always challenged the status quo, transforming risk into reward one decision at a time. I believe that the diversity of perspectives and the synergy between team members can lead to productive and creative results. For example, in the planning of the biggest project of last year (a RESTful microservice for geolocation), during a brainstorming session, I persuaded two more introverted members to share their ideas with the rest of the group. Their idea was so good it became the core of our strategy in the deployment procedure of our project.
+For the past three years, I have been self-employed, running my own company dedicated to building smart secure IoT solutions and providing rapid prototyping solutions for startups. This entrepreneurial endeavor has allowed me to gain valuable hands-on experience in hardware engineering, expand on my software engineering background and deal with real-time product development challenges. I have established a fully equipped lab here in Vienna, where I continually experiment, test hardware and innovate. My dedication to my work is unwavering, and I thrive on the challenges and possibilities that hardware engineering and especially hardware security presents.
 
-I like to challenge yesterday's technology, understanding that there's always space for improvement in the design. This is also my focus in my final year project, which is a drone deployment network on 4G. My project is the sum of all the experience I gathered in the four years of university. Besides coding the network stack, the analog signal generator and the android app, I am also designing the multilayer PCB for the drone from scratch with SMD components to retain a small form factor.
+One of my recent achievements was leading a significant project for a startup, resulting in a technology that is currently pending patent approval. This accomplishment is a testament to my technical skills, problem-solving abilities, and dedication to innovation. Now, I am eager to bring my expertise and passion to a new challenge in Vienna.
 
-I would love to have the chance to talk to you about my final year project and the opportunity to discuss my application with you further.
+I would welcome the opportunity to discuss my final year project, as well as the various projects I have undertaken for my business and personal interests, such as 3D printing and R&D. I believe that my skills and experiences align well with the goals and values of your organization. I am eager to explore how my contributions can complement your team's efforts and drive innovation.
 
-Yours faithfully, 
+Thank you for considering my application. I look forward to the possibility of working with you and discovering the synergies we can create together.
+
+Yours sincerely,
+
 Mihai-Emilian Buduroi
